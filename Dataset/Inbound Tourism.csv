@@ -1,0 +1,1281 @@
+Year,Quarter,Area of Residence,Reason for Journey,Avg Length of Stay,Expenditure,Overseas Trip Percentage,Total Trips,Number of Trips,Season
+2012,1,All Countries,All reasons for journey,6.8,483.0,100.0,1165100,1165100.0,Winter
+2012,2,All Countries,All reasons for journey,7.0,816.0,100.0,1817300,1817300.0,Spring
+2012,3,All Countries,All reasons for journey,8.1,994.0,100.0,2096700,2096700.0,Summer
+2012,4,All Countries,All reasons for journey,7.2,622.0,100.0,1438000,1438000.0,Autumn
+2013,1,All Countries,All reasons for journey,6.7,541.0,100.0,1251700,1251700.0,Winter
+2013,2,All Countries,All reasons for journey,7.0,870.0,100.0,1893000,1893000.0,Spring
+2013,3,All Countries,All reasons for journey,8.2,1186.0,100.0,2261000,2261000.0,Summer
+2013,4,All Countries,All reasons for journey,6.8,665.0,100.0,1580100,1580100.0,Autumn
+2014,1,All Countries,All reasons for journey,6.6,534.0,100.0,1342500,1342500.0,Winter
+2014,2,All Countries,All reasons for journey,7.1,1001.0,100.0,2126600,2126600.0,Spring
+2014,3,All Countries,All reasons for journey,8.1,1303.0,100.0,2440400,2440400.0,Summer
+2014,4,All Countries,All reasons for journey,6.6,711.0,100.0,1694900,1694900.0,Autumn
+2015,1,All Countries,All reasons for journey,6.5,590.0,100.0,1531300,1531300.0,Winter
+2015,2,All Countries,All reasons for journey,7.0,1194.0,100.0,2344900,2344900.0,Spring
+2015,3,All Countries,All reasons for journey,7.9,1551.0,100.0,2770900,2770900.0,Summer
+2015,4,All Countries,All reasons for journey,6.4,873.0,100.0,1995900,1995900.0,Autumn
+2016,1,All Countries,All reasons for journey,6.5,693.0,100.0,1784700,1784700.0,Winter
+2016,2,All Countries,All reasons for journey,6.7,1261.0,100.0,2598900,2598900.0,Spring
+2016,3,All Countries,All reasons for journey,7.7,1693.0,100.0,3061500,3061500.0,Summer
+2016,4,All Countries,All reasons for journey,6.4,930.0,100.0,2139200,2139200.0,Autumn
+2017,1,All Countries,All reasons for journey,6.2,684.0,100.0,1796100,1796100.0,Winter
+2017,2,All Countries,All reasons for journey,6.6,1408.0,100.0,2769400,2769400.0,Spring
+2017,3,All Countries,All reasons for journey,7.6,1736.0,100.0,3095600,3095600.0,Summer
+2017,4,All Countries,All reasons for journey,6.9,1046.0,100.0,2270900,2270900.0,Autumn
+2018,1,All Countries,All reasons for journey,6.5,795.0,100.0,1920700,1920700.0,Winter
+2018,2,All Countries,All reasons for journey,6.3,1475.0,100.0,2951900,2951900.0,Spring
+2018,3,All Countries,All reasons for journey,7.4,1832.0,100.0,3330900,3330900.0,Summer
+2018,4,All Countries,All reasons for journey,6.3,1047.0,100.0,2412800,2412800.0,Autumn
+2019,1,All Countries,All reasons for journey,6.0,763.0,100.0,2026700,2026700.0,Winter
+2019,2,All Countries,All reasons for journey,6.5,1513.0,100.0,3021800,3021800.0,Spring
+2019,3,All Countries,All reasons for journey,7.0,1824.0,100.0,3334400,3334400.0,Summer
+2019,4,All Countries,All reasons for journey,6.2,1001.0,100.0,2424600,2424600.0,Autumn
+2012,1,All Countries,Business,4.0,126.0,100.0,1165100,1165100.0,Winter
+2012,2,All Countries,Business,4.4,136.0,100.0,1817300,1817300.0,Spring
+2012,3,All Countries,Business,4.7,124.0,100.0,2096700,2096700.0,Summer
+2012,4,All Countries,Business,6.6,144.0,100.0,1438000,1438000.0,Autumn
+2013,1,All Countries,Business,4.8,152.0,100.0,1251700,1251700.0,Winter
+2013,2,All Countries,Business,5.2,136.0,100.0,1893000,1893000.0,Spring
+2013,3,All Countries,Business,5.4,124.0,100.0,2261000,2261000.0,Summer
+2013,4,All Countries,Business,6.0,168.0,100.0,1580100,1580100.0,Autumn
+2014,1,All Countries,Business,4.8,120.0,100.0,1342500,1342500.0,Winter
+2014,2,All Countries,Business,5.2,179.0,100.0,2126600,2126600.0,Spring
+2014,3,All Countries,Business,6.2,136.0,100.0,2440400,2440400.0,Summer
+2014,4,All Countries,Business,6.1,153.0,100.0,1694900,1694900.0,Autumn
+2015,1,All Countries,Business,4.8,151.0,100.0,1531300,1531300.0,Winter
+2015,2,All Countries,Business,5.5,172.0,100.0,2344900,2344900.0,Spring
+2015,3,All Countries,Business,6.0,163.0,100.0,2770900,2770900.0,Summer
+2015,4,All Countries,Business,5.1,189.0,100.0,1995900,1995900.0,Autumn
+2016,1,All Countries,Business,5.3,148.0,100.0,1784700,1784700.0,Winter
+2016,2,All Countries,Business,5.2,198.0,100.0,2598900,2598900.0,Spring
+2016,3,All Countries,Business,6.5,186.0,100.0,3061500,3061500.0,Summer
+2016,4,All Countries,Business,5.9,191.0,100.0,2139200,2139200.0,Autumn
+2017,1,All Countries,Business,5.0,151.0,100.0,1796100,1796100.0,Winter
+2017,2,All Countries,Business,5.7,213.0,100.0,2769400,2769400.0,Spring
+2017,3,All Countries,Business,6.6,199.0,100.0,3095600,3095600.0,Summer
+2017,4,All Countries,Business,7.3,204.0,100.0,2270900,2270900.0,Autumn
+2018,1,All Countries,Business,5.9,169.0,100.0,1920700,1920700.0,Winter
+2018,2,All Countries,Business,5.7,189.0,100.0,2951900,2951900.0,Spring
+2018,3,All Countries,Business,6.5,202.0,100.0,3330900,3330900.0,Summer
+2018,4,All Countries,Business,6.6,184.0,100.0,2412800,2412800.0,Autumn
+2019,1,All Countries,Business,5.3,167.0,100.0,2026700,2026700.0,Winter
+2019,2,All Countries,Business,5.7,180.0,100.0,3021800,3021800.0,Spring
+2019,3,All Countries,Business,6.5,198.0,100.0,3334400,3334400.0,Summer
+2019,4,All Countries,Business,6.3,176.0,100.0,2424600,2424600.0,Autumn
+2012,1,All Countries,Holiday/leisure/recreation,5.2,180.0,100.0,1165100,1165100.0,Winter
+2012,2,All Countries,Holiday/leisure/recreation,6.4,453.0,100.0,1817300,1817300.0,Spring
+2012,3,All Countries,Holiday/leisure/recreation,7.6,608.0,100.0,2096700,2096700.0,Summer
+2012,4,All Countries,Holiday/leisure/recreation,5.8,272.0,100.0,1438000,1438000.0,Autumn
+2013,1,All Countries,Holiday/leisure/recreation,5.1,212.0,100.0,1251700,1251700.0,Winter
+2013,2,All Countries,Holiday/leisure/recreation,6.4,486.0,100.0,1893000,1893000.0,Spring
+2013,3,All Countries,Holiday/leisure/recreation,7.9,727.0,100.0,2261000,2261000.0,Summer
+2013,4,All Countries,Holiday/leisure/recreation,5.6,262.0,100.0,1580100,1580100.0,Autumn
+2014,1,All Countries,Holiday/leisure/recreation,5.1,194.0,100.0,1342500,1342500.0,Winter
+2014,2,All Countries,Holiday/leisure/recreation,6.2,502.0,100.0,2126600,2126600.0,Spring
+2014,3,All Countries,Holiday/leisure/recreation,8.0,811.0,100.0,2440400,2440400.0,Summer
+2014,4,All Countries,Holiday/leisure/recreation,5.3,316.0,100.0,1694900,1694900.0,Autumn
+2015,1,All Countries,Holiday/leisure/recreation,5.0,219.0,100.0,1531300,1531300.0,Winter
+2015,2,All Countries,Holiday/leisure/recreation,6.3,717.0,100.0,2344900,2344900.0,Spring
+2015,3,All Countries,Holiday/leisure/recreation,7.8,1002.0,100.0,2770900,2770900.0,Summer
+2015,4,All Countries,Holiday/leisure/recreation,5.3,392.0,100.0,1995900,1995900.0,Autumn
+2016,1,All Countries,Holiday/leisure/recreation,4.8,282.0,100.0,1784700,1784700.0,Winter
+2016,2,All Countries,Holiday/leisure/recreation,6.3,738.0,100.0,2598900,2598900.0,Spring
+2016,3,All Countries,Holiday/leisure/recreation,7.7,1073.0,100.0,3061500,3061500.0,Summer
+2016,4,All Countries,Holiday/leisure/recreation,5.5,455.0,100.0,2139200,2139200.0,Autumn
+2017,1,All Countries,Holiday/leisure/recreation,4.9,283.0,100.0,1796100,1796100.0,Winter
+2017,2,All Countries,Holiday/leisure/recreation,6.3,861.0,100.0,2769400,2769400.0,Spring
+2017,3,All Countries,Holiday/leisure/recreation,7.7,1106.0,100.0,3095600,3095600.0,Summer
+2017,4,All Countries,Holiday/leisure/recreation,5.5,507.0,100.0,2270900,2270900.0,Autumn
+2018,1,All Countries,Holiday/leisure/recreation,5.2,350.0,100.0,1920700,1920700.0,Winter
+2018,2,All Countries,Holiday/leisure/recreation,5.9,925.0,100.0,2951900,2951900.0,Spring
+2018,3,All Countries,Holiday/leisure/recreation,7.6,1249.0,100.0,3330900,3330900.0,Summer
+2018,4,All Countries,Holiday/leisure/recreation,5.5,582.0,100.0,2412800,2412800.0,Autumn
+2019,1,All Countries,Holiday/leisure/recreation,4.9,350.0,100.0,2026700,2026700.0,Winter
+2019,2,All Countries,Holiday/leisure/recreation,6.1,985.0,100.0,3021800,3021800.0,Spring
+2019,3,All Countries,Holiday/leisure/recreation,7.4,1252.0,100.0,3334400,3334400.0,Summer
+2019,4,All Countries,Holiday/leisure/recreation,4.9,487.0,100.0,2424600,2424600.0,Autumn
+2012,1,All Countries,Other reason for journey,14.7,48.0,100.0,1165100,1165100.0,Winter
+2012,2,All Countries,Other reason for journey,14.0,77.0,100.0,1817300,1817300.0,Spring
+2012,3,All Countries,Other reason for journey,15.2,98.0,100.0,2096700,2096700.0,Summer
+2012,4,All Countries,Other reason for journey,15.1,64.0,100.0,1438000,1438000.0,Autumn
+2013,1,All Countries,Other reason for journey,17.5,49.0,100.0,1251700,1251700.0,Winter
+2013,2,All Countries,Other reason for journey,13.1,110.0,100.0,1893000,1893000.0,Spring
+2013,3,All Countries,Other reason for journey,12.3,102.0,100.0,2261000,2261000.0,Summer
+2013,4,All Countries,Other reason for journey,15.7,63.0,100.0,1580100,1580100.0,Autumn
+2014,1,All Countries,Other reason for journey,12.4,50.0,100.0,1342500,1342500.0,Winter
+2014,2,All Countries,Other reason for journey,14.4,125.0,100.0,2126600,2126600.0,Spring
+2014,3,All Countries,Other reason for journey,9.6,105.0,100.0,2440400,2440400.0,Summer
+2014,4,All Countries,Other reason for journey,12.4,72.0,100.0,1694900,1694900.0,Autumn
+2015,1,All Countries,Other reason for journey,14.9,69.0,100.0,1531300,1531300.0,Winter
+2015,2,All Countries,Other reason for journey,13.4,106.0,100.0,2344900,2344900.0,Spring
+2015,3,All Countries,Other reason for journey,9.2,129.0,100.0,2770900,2770900.0,Summer
+2015,4,All Countries,Other reason for journey,12.5,96.0,100.0,1995900,1995900.0,Autumn
+2016,1,All Countries,Other reason for journey,13.2,72.0,100.0,1784700,1784700.0,Winter
+2016,2,All Countries,Other reason for journey,10.6,127.0,100.0,2598900,2598900.0,Spring
+2016,3,All Countries,Other reason for journey,8.0,163.0,100.0,3061500,3061500.0,Summer
+2016,4,All Countries,Other reason for journey,10.3,80.0,100.0,2139200,2139200.0,Autumn
+2017,1,All Countries,Other reason for journey,9.4,65.0,100.0,1796100,1796100.0,Winter
+2017,2,All Countries,Other reason for journey,9.2,116.0,100.0,2769400,2769400.0,Spring
+2017,3,All Countries,Other reason for journey,7.1,151.0,100.0,3095600,3095600.0,Summer
+2017,4,All Countries,Other reason for journey,12.8,124.0,100.0,2270900,2270900.0,Autumn
+2018,1,All Countries,Other reason for journey,10.5,95.0,100.0,1920700,1920700.0,Winter
+2018,2,All Countries,Other reason for journey,9.1,121.0,100.0,2951900,2951900.0,Spring
+2018,3,All Countries,Other reason for journey,5.6,108.0,100.0,3330900,3330900.0,Summer
+2018,4,All Countries,Other reason for journey,8.6,95.0,100.0,2412800,2412800.0,Autumn
+2019,1,All Countries,Other reason for journey,7.0,67.0,100.0,2026700,2026700.0,Winter
+2019,2,All Countries,Other reason for journey,8.3,125.0,100.0,3021800,3021800.0,Spring
+2019,3,All Countries,Other reason for journey,4.3,79.0,100.0,3334400,3334400.0,Summer
+2019,4,All Countries,Other reason for journey,11.1,128.0,100.0,2424600,2424600.0,Autumn
+2012,1,All Countries,Visit to friends/relatives,8.1,129.0,100.0,1165100,1165100.0,Winter
+2012,2,All Countries,Visit to friends/relatives,7.0,151.0,100.0,1817300,1817300.0,Spring
+2012,3,All Countries,Visit to friends/relatives,7.8,164.0,100.0,2096700,2096700.0,Summer
+2012,4,All Countries,Visit to friends/relatives,6.4,144.0,100.0,1438000,1438000.0,Autumn
+2013,1,All Countries,Visit to friends/relatives,7.4,128.0,100.0,1251700,1251700.0,Winter
+2013,2,All Countries,Visit to friends/relatives,6.6,139.0,100.0,1893000,1893000.0,Spring
+2013,3,All Countries,Visit to friends/relatives,8.5,232.0,100.0,2261000,2261000.0,Summer
+2013,4,All Countries,Visit to friends/relatives,6.3,171.0,100.0,1580100,1580100.0,Autumn
+2014,1,All Countries,Visit to friends/relatives,7.8,170.0,100.0,1342500,1342500.0,Winter
+2014,2,All Countries,Visit to friends/relatives,6.9,195.0,100.0,2126600,2126600.0,Spring
+2014,3,All Countries,Visit to friends/relatives,8.5,251.0,100.0,2440400,2440400.0,Summer
+2014,4,All Countries,Visit to friends/relatives,6.4,169.0,100.0,1694900,1694900.0,Autumn
+2015,1,All Countries,Visit to friends/relatives,7.2,151.0,100.0,1531300,1531300.0,Winter
+2015,2,All Countries,Visit to friends/relatives,6.8,198.0,100.0,2344900,2344900.0,Spring
+2015,3,All Countries,Visit to friends/relatives,8.7,256.0,100.0,2770900,2770900.0,Summer
+2015,4,All Countries,Visit to friends/relatives,6.5,197.0,100.0,1995900,1995900.0,Autumn
+2016,1,All Countries,Visit to friends/relatives,7.4,191.0,100.0,1784700,1784700.0,Winter
+2016,2,All Countries,Visit to friends/relatives,6.6,199.0,100.0,2598900,2598900.0,Spring
+2016,3,All Countries,Visit to friends/relatives,8.2,270.0,100.0,3061500,3061500.0,Summer
+2016,4,All Countries,Visit to friends/relatives,6.4,204.0,100.0,2139200,2139200.0,Autumn
+2017,1,All Countries,Visit to friends/relatives,7.4,185.0,100.0,1796100,1796100.0,Winter
+2017,2,All Countries,Visit to friends/relatives,6.8,218.0,100.0,2769400,2769400.0,Spring
+2017,3,All Countries,Visit to friends/relatives,8.2,281.0,100.0,3095600,3095600.0,Summer
+2017,4,All Countries,Visit to friends/relatives,6.2,211.0,100.0,2270900,2270900.0,Autumn
+2018,1,All Countries,Visit to friends/relatives,7.1,181.0,100.0,1920700,1920700.0,Winter
+2018,2,All Countries,Visit to friends/relatives,6.3,240.0,100.0,2951900,2951900.0,Spring
+2018,3,All Countries,Visit to friends/relatives,8.3,274.0,100.0,3330900,3330900.0,Summer
+2018,4,All Countries,Visit to friends/relatives,6.4,186.0,100.0,2412800,2412800.0,Autumn
+2019,1,All Countries,Visit to friends/relatives,7.5,178.0,100.0,2026700,2026700.0,Winter
+2019,2,All Countries,Visit to friends/relatives,6.8,223.0,100.0,3021800,3021800.0,Spring
+2019,3,All Countries,Visit to friends/relatives,8.2,295.0,100.0,3334400,3334400.0,Summer
+2019,4,All Countries,Visit to friends/relatives,6.0,211.0,100.0,2424600,2424600.0,Autumn
+2012,1,France,All reasons for journey,7.8,29.0,6.0,1165100,69906.0,Winter
+2012,2,France,All reasons for journey,8.5,63.0,7.0,1817300,127211.00000000001,Spring
+2012,3,France,All reasons for journey,10.6,66.0,6.0,2096700,125802.0,Summer
+2012,4,France,All reasons for journey,9.6,31.0,5.0,1438000,71900.0,Autumn
+2013,1,France,All reasons for journey,7.9,37.0,7.0,1251700,87619.00000000001,Winter
+2013,2,France,All reasons for journey,9.1,60.0,8.0,1893000,151440.0,Spring
+2013,3,France,All reasons for journey,9.7,72.0,6.0,2261000,135660.0,Summer
+2013,4,France,All reasons for journey,8.4,31.0,5.0,1580100,79005.0,Autumn
+2014,1,France,All reasons for journey,7.6,25.0,5.0,1342500,67125.0,Winter
+2014,2,France,All reasons for journey,9.0,64.0,7.0,2126600,148862.0,Spring
+2014,3,France,All reasons for journey,9.5,78.0,6.0,2440400,146424.0,Summer
+2014,4,France,All reasons for journey,8.3,34.0,5.0,1694900,84745.0,Autumn
+2015,1,France,All reasons for journey,8.1,33.0,6.0,1531300,91878.0,Winter
+2015,2,France,All reasons for journey,8.5,78.0,7.0,2344900,164143.00000000003,Spring
+2015,3,France,All reasons for journey,9.8,84.0,6.0,2770900,166254.0,Summer
+2015,4,France,All reasons for journey,7.6,41.0,5.0,1995900,99795.0,Autumn
+2016,1,France,All reasons for journey,8.3,42.0,5.0,1784700,89235.0,Winter
+2016,2,France,All reasons for journey,9.9,92.0,7.0,2598900,181923.00000000003,Spring
+2016,3,France,All reasons for journey,10.6,103.0,6.0,3061500,183690.0,Summer
+2016,4,France,All reasons for journey,7.4,38.0,5.0,2139200,106960.0,Autumn
+2017,1,France,All reasons for journey,8.6,51.0,6.0,1796100,107766.0,Winter
+2017,2,France,All reasons for journey,8.1,82.0,6.0,2769400,166164.0,Spring
+2017,3,France,All reasons for journey,9.5,99.0,5.0,3095600,154780.0,Summer
+2017,4,France,All reasons for journey,11.3,63.0,5.0,2270900,113545.0,Autumn
+2018,1,France,All reasons for journey,9.1,48.0,5.0,1920700,96035.0,Winter
+2018,2,France,All reasons for journey,8.7,104.0,6.0,2951900,177114.0,Spring
+2018,3,France,All reasons for journey,9.5,97.0,5.0,3330900,166545.0,Summer
+2018,4,France,All reasons for journey,8.1,43.0,5.0,2412800,120640.0,Autumn
+2019,1,France,All reasons for journey,7.9,43.0,6.0,2026700,121602.0,Winter
+2019,2,France,All reasons for journey,9.8,81.0,6.0,3021800,181308.0,Spring
+2019,3,France,All reasons for journey,9.6,98.0,5.0,3334400,166720.0,Summer
+2019,4,France,All reasons for journey,8.1,46.0,5.0,2424600,121230.0,Autumn
+2012,1,France,Business,6.6,9.0,9.0,1165100,104859.0,Winter
+2012,2,France,Business,5.8,6.0,6.0,1817300,109038.0,Spring
+2012,3,France,Business,9.3,6.0,7.0,2096700,146769.0,Summer
+2012,4,France,Business,9.1,5.0,5.0,1438000,71900.0,Autumn
+2013,1,France,Business,6.0,7.0,8.0,1251700,100136.0,Winter
+2013,2,France,Business,5.1,5.0,4.0,1893000,75720.0,Spring
+2013,3,France,Business,12.0,6.0,5.0,2261000,113050.0,Summer
+2013,4,France,Business,6.7,8.0,5.0,1580100,79005.0,Autumn
+2014,1,France,Business,7.0,6.0,6.0,1342500,80550.0,Winter
+2014,2,France,Business,5.3,9.0,5.0,2126600,106330.0,Spring
+2014,3,France,Business,12.3,6.0,4.0,2440400,97616.0,Summer
+2014,4,France,Business,7.3,6.0,5.0,1694900,84745.0,Autumn
+2015,1,France,Business,5.2,8.0,5.0,1531300,76565.0,Winter
+2015,2,France,Business,7.9,4.0,3.0,2344900,70347.0,Spring
+2015,3,France,Business,10.0,8.0,5.0,2770900,138545.0,Summer
+2015,4,France,Business,7.2,6.0,4.0,1995900,79836.0,Autumn
+2016,1,France,Business,6.8,8.0,6.0,1784700,107082.0,Winter
+2016,2,France,Business,4.6,6.0,4.0,2598900,103956.0,Spring
+2016,3,France,Business,14.3,9.0,5.0,3061500,153075.0,Summer
+2016,4,France,Business,6.6,8.0,5.0,2139200,106960.0,Autumn
+2017,1,France,Business,8.9,9.0,5.0,1796100,89805.0,Winter
+2017,2,France,Business,4.7,10.0,5.0,2769400,138470.0,Spring
+2017,3,France,Business,16.2,9.0,4.0,3095600,123824.0,Summer
+2017,4,France,Business,16.6,10.0,5.0,2270900,113545.0,Autumn
+2018,1,France,Business,6.1,9.0,5.0,1920700,96035.0,Winter
+2018,2,France,Business,8.3,11.0,4.0,2951900,118076.0,Spring
+2018,3,France,Business,12.6,8.0,3.0,3330900,99927.0,Summer
+2018,4,France,Business,6.2,6.0,5.0,2412800,120640.0,Autumn
+2019,1,France,Business,7.4,8.0,5.0,2026700,101335.0,Winter
+2019,2,France,Business,6.9,9.0,6.0,3021800,181308.0,Spring
+2019,3,France,Business,11.0,5.0,4.0,3334400,133376.0,Summer
+2019,4,France,Business,10.0,10.0,5.0,2424600,121230.0,Autumn
+2012,1,France,Holiday/leisure/recreation,5.4,10.0,5.0,1165100,58255.0,Winter
+2012,2,France,Holiday/leisure/recreation,6.7,46.0,10.0,1817300,181730.0,Spring
+2012,3,France,Holiday/leisure/recreation,9.8,49.0,8.0,2096700,167736.0,Summer
+2012,4,France,Holiday/leisure/recreation,5.3,15.0,5.0,1438000,71900.0,Autumn
+2013,1,France,Holiday/leisure/recreation,3.9,17.0,9.0,1251700,112653.0,Winter
+2013,2,France,Holiday/leisure/recreation,6.2,36.0,9.0,1893000,170370.0,Spring
+2013,3,France,Holiday/leisure/recreation,9.2,54.0,7.0,2261000,158270.00000000003,Summer
+2013,4,France,Holiday/leisure/recreation,5.3,12.0,5.0,1580100,79005.0,Autumn
+2014,1,France,Holiday/leisure/recreation,5.3,10.0,6.0,1342500,80550.0,Winter
+2014,2,France,Holiday/leisure/recreation,6.8,37.0,9.0,2126600,191394.0,Spring
+2014,3,France,Holiday/leisure/recreation,9.2,55.0,8.0,2440400,195232.0,Summer
+2014,4,France,Holiday/leisure/recreation,4.4,15.0,6.0,1694900,101694.0,Autumn
+2015,1,France,Holiday/leisure/recreation,4.4,13.0,8.0,1531300,122504.0,Winter
+2015,2,France,Holiday/leisure/recreation,6.6,55.0,9.0,2344900,211041.0,Spring
+2015,3,France,Holiday/leisure/recreation,8.8,64.0,7.0,2770900,193963.00000000003,Summer
+2015,4,France,Holiday/leisure/recreation,5.5,17.0,6.0,1995900,119754.0,Autumn
+2016,1,France,Holiday/leisure/recreation,5.6,17.0,6.0,1784700,107082.0,Winter
+2016,2,France,Holiday/leisure/recreation,8.1,62.0,9.0,2598900,233901.0,Spring
+2016,3,France,Holiday/leisure/recreation,9.2,78.0,7.0,3061500,214305.00000000003,Summer
+2016,4,France,Holiday/leisure/recreation,5.4,18.0,5.0,2139200,106960.0,Autumn
+2017,1,France,Holiday/leisure/recreation,4.8,24.0,8.0,1796100,143688.0,Winter
+2017,2,France,Holiday/leisure/recreation,7.3,57.0,8.0,2769400,221552.0,Spring
+2017,3,France,Holiday/leisure/recreation,8.8,74.0,7.0,3095600,216692.00000000003,Summer
+2017,4,France,Holiday/leisure/recreation,6.7,33.0,6.0,2270900,136254.0,Autumn
+2018,1,France,Holiday/leisure/recreation,6.0,24.0,6.0,1920700,115242.0,Winter
+2018,2,France,Holiday/leisure/recreation,6.7,64.0,8.0,2951900,236152.0,Spring
+2018,3,France,Holiday/leisure/recreation,8.4,74.0,7.0,3330900,233163.00000000003,Summer
+2018,4,France,Holiday/leisure/recreation,5.2,22.0,5.0,2412800,120640.0,Autumn
+2019,1,France,Holiday/leisure/recreation,5.0,23.0,8.0,2026700,162136.0,Winter
+2019,2,France,Holiday/leisure/recreation,6.3,50.0,7.0,3021800,211526.00000000003,Spring
+2019,3,France,Holiday/leisure/recreation,8.9,76.0,6.0,3334400,200064.0,Summer
+2019,4,France,Holiday/leisure/recreation,5.3,21.0,6.0,2424600,145476.0,Autumn
+2012,1,France,Other reason for journey,18.3,4.0,10.0,1165100,116510.0,Winter
+2012,2,France,Other reason for journey,24.5,5.0,9.0,1817300,163557.0,Spring
+2012,3,France,Other reason for journey,20.7,6.0,6.0,2096700,125802.0,Summer
+2012,4,France,Other reason for journey,20.8,6.0,12.0,1438000,172560.0,Autumn
+2013,1,France,Other reason for journey,31.0,8.0,13.0,1251700,162721.0,Winter
+2013,2,France,Other reason for journey,22.9,14.0,15.0,1893000,283950.0,Spring
+2013,3,France,Other reason for journey,10.1,9.0,9.0,2261000,203490.0,Summer
+2013,4,France,Other reason for journey,28.4,6.0,10.0,1580100,158010.0,Autumn
+2014,1,France,Other reason for journey,21.0,3.0,9.0,1342500,120825.0,Winter
+2014,2,France,Other reason for journey,24.3,11.0,10.0,2126600,212660.0,Spring
+2014,3,France,Other reason for journey,11.9,11.0,8.0,2440400,195232.0,Summer
+2014,4,France,Other reason for journey,23.6,6.0,8.0,1694900,135592.0,Autumn
+2015,1,France,Other reason for journey,31.1,7.0,12.0,1531300,183756.0,Winter
+2015,2,France,Other reason for journey,22.7,13.0,12.0,2344900,281388.0,Spring
+2015,3,France,Other reason for journey,14.8,8.0,10.0,2770900,277090.0,Summer
+2015,4,France,Other reason for journey,17.0,9.0,11.0,1995900,219549.0,Autumn
+2016,1,France,Other reason for journey,20.8,11.0,10.0,1784700,178470.0,Winter
+2016,2,France,Other reason for journey,33.8,14.0,12.0,2598900,311868.0,Spring
+2016,3,France,Other reason for journey,16.1,8.0,6.0,3061500,183690.0,Summer
+2016,4,France,Other reason for journey,16.5,6.0,7.0,2139200,149744.0,Autumn
+2017,1,France,Other reason for journey,23.9,12.0,13.0,1796100,233493.0,Winter
+2017,2,France,Other reason for journey,23.3,7.0,6.0,2769400,166164.0,Spring
+2017,3,France,Other reason for journey,11.6,9.0,6.0,3095600,185736.0,Summer
+2017,4,France,Other reason for journey,32.8,12.0,10.0,2270900,227090.0,Autumn
+2018,1,France,Other reason for journey,23.2,9.0,11.0,1920700,211277.0,Winter
+2018,2,France,Other reason for journey,26.1,17.0,8.0,2951900,236152.0,Spring
+2018,3,France,Other reason for journey,15.6,8.0,5.0,3330900,166545.0,Summer
+2018,4,France,Other reason for journey,21.4,9.0,11.0,2412800,265408.0,Autumn
+2019,1,France,Other reason for journey,18.8,6.0,11.0,2026700,222937.0,Winter
+2019,2,France,Other reason for journey,30.5,14.0,12.0,3021800,362616.0,Spring
+2019,3,France,Other reason for journey,11.6,8.0,7.0,3334400,233408.00000000003,Summer
+2019,4,France,Other reason for journey,22.2,9.0,10.0,2424600,242460.0,Autumn
+2012,1,France,Visit to friends/relatives,7.4,5.0,4.0,1165100,46604.0,Winter
+2012,2,France,Visit to friends/relatives,7.1,6.0,4.0,1817300,72692.0,Spring
+2012,3,France,Visit to friends/relatives,8.4,5.0,3.0,2096700,62901.0,Summer
+2012,4,France,Visit to friends/relatives,6.8,5.0,3.0,1438000,43140.0,Autumn
+2013,1,France,Visit to friends/relatives,6.9,5.0,3.0,1251700,37551.0,Winter
+2013,2,France,Visit to friends/relatives,6.3,5.0,5.0,1893000,94650.0,Spring
+2013,3,France,Visit to friends/relatives,10.4,4.0,2.0,2261000,45220.0,Summer
+2013,4,France,Visit to friends/relatives,6.1,6.0,4.0,1580100,63204.0,Autumn
+2014,1,France,Visit to friends/relatives,7.3,5.0,4.0,1342500,53700.0,Winter
+2014,2,France,Visit to friends/relatives,9.2,7.0,4.0,2126600,85064.0,Spring
+2014,3,France,Visit to friends/relatives,7.2,7.0,3.0,2440400,73212.0,Summer
+2014,4,France,Visit to friends/relatives,6.8,7.0,4.0,1694900,67796.0,Autumn
+2015,1,France,Visit to friends/relatives,7.0,5.0,4.0,1531300,61252.0,Winter
+2015,2,France,Visit to friends/relatives,6.0,6.0,4.0,2344900,93796.0,Spring
+2015,3,France,Visit to friends/relatives,8.8,5.0,2.0,2770900,55418.0,Summer
+2015,4,France,Visit to friends/relatives,5.7,8.0,5.0,1995900,99795.0,Autumn
+2016,1,France,Visit to friends/relatives,6.0,6.0,4.0,1784700,71388.0,Winter
+2016,2,France,Visit to friends/relatives,7.1,9.0,4.0,2598900,103956.0,Spring
+2016,3,France,Visit to friends/relatives,9.8,7.0,3.0,3061500,91845.0,Summer
+2016,4,France,Visit to friends/relatives,6.6,6.0,4.0,2139200,85568.0,Autumn
+2017,1,France,Visit to friends/relatives,7.8,7.0,4.0,1796100,71844.0,Winter
+2017,2,France,Visit to friends/relatives,5.6,9.0,4.0,2769400,110776.0,Spring
+2017,3,France,Visit to friends/relatives,6.6,7.0,3.0,3095600,92868.0,Summer
+2017,4,France,Visit to friends/relatives,6.4,8.0,4.0,2270900,90836.0,Autumn
+2018,1,France,Visit to friends/relatives,8.2,7.0,4.0,1920700,76828.0,Winter
+2018,2,France,Visit to friends/relatives,6.2,12.0,4.0,2951900,118076.0,Spring
+2018,3,France,Visit to friends/relatives,9.2,6.0,3.0,3330900,99927.0,Summer
+2018,4,France,Visit to friends/relatives,6.9,6.0,4.0,2412800,96512.0,Autumn
+2019,1,France,Visit to friends/relatives,8.1,6.0,3.0,2026700,60801.0,Winter
+2019,2,France,Visit to friends/relatives,7.2,7.0,4.0,3021800,120872.0,Spring
+2019,3,France,Visit to friends/relatives,10.0,9.0,3.0,3334400,100032.0,Summer
+2019,4,France,Visit to friends/relatives,5.0,7.0,4.0,2424600,96984.0,Autumn
+2012,1,Germany,All reasons for journey,9.9,27.0,6.0,1165100,69906.0,Winter
+2012,2,Germany,All reasons for journey,8.2,71.0,8.0,1817300,145384.0,Spring
+2012,3,Germany,All reasons for journey,9.2,82.0,8.0,2096700,167736.0,Summer
+2012,4,Germany,All reasons for journey,9.3,47.0,7.0,1438000,100660.00000000001,Autumn
+2013,1,Germany,All reasons for journey,9.4,37.0,6.0,1251700,75102.0,Winter
+2013,2,Germany,All reasons for journey,9.2,94.0,8.0,1893000,151440.0,Spring
+2013,3,Germany,All reasons for journey,10.3,101.0,8.0,2261000,180880.0,Summer
+2013,4,Germany,All reasons for journey,9.0,54.0,7.0,1580100,110607.00000000001,Autumn
+2014,1,Germany,All reasons for journey,9.6,36.0,7.0,1342500,93975.00000000001,Winter
+2014,2,Germany,All reasons for journey,9.7,122.0,9.0,2126600,191394.0,Spring
+2014,3,Germany,All reasons for journey,10.1,124.0,8.0,2440400,195232.0,Summer
+2014,4,Germany,All reasons for journey,8.4,51.0,7.0,1694900,118643.00000000001,Autumn
+2015,1,Germany,All reasons for journey,10.1,41.0,6.0,1531300,91878.0,Winter
+2015,2,Germany,All reasons for journey,10.4,146.0,9.0,2344900,211041.0,Spring
+2015,3,Germany,All reasons for journey,9.1,144.0,8.0,2770900,221672.0,Summer
+2015,4,Germany,All reasons for journey,8.5,66.0,7.0,1995900,139713.0,Autumn
+2016,1,Germany,All reasons for journey,7.9,44.0,6.0,1784700,107082.0,Winter
+2016,2,Germany,All reasons for journey,8.3,122.0,8.0,2598900,207912.0,Spring
+2016,3,Germany,All reasons for journey,9.5,159.0,8.0,3061500,244920.0,Summer
+2016,4,Germany,All reasons for journey,7.9,63.0,7.0,2139200,149744.0,Autumn
+2017,1,Germany,All reasons for journey,8.4,40.0,6.0,1796100,107766.0,Winter
+2017,2,Germany,All reasons for journey,7.5,135.0,8.0,2769400,221552.0,Spring
+2017,3,Germany,All reasons for journey,8.8,146.0,8.0,3095600,247648.0,Summer
+2017,4,Germany,All reasons for journey,8.7,78.0,7.0,2270900,158963.00000000003,Autumn
+2018,1,Germany,All reasons for journey,7.5,55.0,7.0,1920700,134449.0,Winter
+2018,2,Germany,All reasons for journey,7.5,153.0,9.0,2951900,265671.0,Spring
+2018,3,Germany,All reasons for journey,8.3,175.0,8.0,3330900,266472.0,Summer
+2018,4,Germany,All reasons for journey,7.1,85.0,8.0,2412800,193024.0,Autumn
+2019,1,Germany,All reasons for journey,6.7,53.0,7.0,2026700,141869.0,Winter
+2019,2,Germany,All reasons for journey,7.7,150.0,9.0,3021800,271962.0,Spring
+2019,3,Germany,All reasons for journey,7.7,163.0,8.0,3334400,266752.0,Summer
+2019,4,Germany,All reasons for journey,7.1,80.0,7.0,2424600,169722.00000000003,Autumn
+2012,1,Germany,Business,5.8,6.0,7.0,1165100,81557.00000000001,Winter
+2012,2,Germany,Business,4.9,5.0,5.0,1817300,90865.0,Spring
+2012,3,Germany,Business,4.6,4.0,5.0,2096700,104835.0,Summer
+2012,4,Germany,Business,6.4,7.0,8.0,1438000,115040.0,Autumn
+2013,1,Germany,Business,7.7,6.0,6.0,1251700,75102.0,Winter
+2013,2,Germany,Business,5.7,9.0,5.0,1893000,94650.0,Spring
+2013,3,Germany,Business,6.9,6.0,6.0,2261000,135660.0,Summer
+2013,4,Germany,Business,8.8,14.0,8.0,1580100,126408.0,Autumn
+2014,1,Germany,Business,7.9,7.0,6.0,1342500,80550.0,Winter
+2014,2,Germany,Business,12.1,14.0,5.0,2126600,106330.0,Spring
+2014,3,Germany,Business,7.6,6.0,5.0,2440400,122020.0,Summer
+2014,4,Germany,Business,6.8,10.0,6.0,1694900,101694.0,Autumn
+2015,1,Germany,Business,6.0,9.0,6.0,1531300,91878.0,Winter
+2015,2,Germany,Business,10.1,14.0,7.0,2344900,164143.00000000003,Spring
+2015,3,Germany,Business,7.0,7.0,5.0,2770900,138545.0,Summer
+2015,4,Germany,Business,4.9,9.0,5.0,1995900,99795.0,Autumn
+2016,1,Germany,Business,6.2,8.0,7.0,1784700,124929.00000000001,Winter
+2016,2,Germany,Business,5.9,15.0,6.0,2598900,155934.0,Spring
+2016,3,Germany,Business,5.0,9.0,6.0,3061500,183690.0,Summer
+2016,4,Germany,Business,9.0,10.0,7.0,2139200,149744.0,Autumn
+2017,1,Germany,Business,5.6,8.0,6.0,1796100,107766.0,Winter
+2017,2,Germany,Business,3.0,12.0,6.0,2769400,166164.0,Spring
+2017,3,Germany,Business,4.9,10.0,6.0,3095600,185736.0,Summer
+2017,4,Germany,Business,6.6,13.0,7.0,2270900,158963.00000000003,Autumn
+2018,1,Germany,Business,7.0,11.0,7.0,1920700,134449.0,Winter
+2018,2,Germany,Business,7.4,9.0,5.0,2951900,147595.0,Spring
+2018,3,Germany,Business,6.0,14.0,6.0,3330900,199854.0,Summer
+2018,4,Germany,Business,6.4,21.0,9.0,2412800,217152.0,Autumn
+2019,1,Germany,Business,5.0,12.0,8.0,2026700,162136.0,Winter
+2019,2,Germany,Business,8.7,13.0,6.0,3021800,181308.0,Spring
+2019,3,Germany,Business,7.5,18.0,6.0,3334400,200064.0,Summer
+2019,4,Germany,Business,7.4,12.0,5.0,2424600,121230.0,Autumn
+2012,1,Germany,Holiday/leisure/recreation,6.5,10.0,5.0,1165100,58255.0,Winter
+2012,2,Germany,Holiday/leisure/recreation,7.6,54.0,11.0,1817300,199903.0,Spring
+2012,3,Germany,Holiday/leisure/recreation,9.0,69.0,12.0,2096700,251604.0,Summer
+2012,4,Germany,Holiday/leisure/recreation,6.1,25.0,9.0,1438000,129420.0,Autumn
+2013,1,Germany,Holiday/leisure/recreation,6.4,21.0,8.0,1251700,100136.0,Winter
+2013,2,Germany,Holiday/leisure/recreation,8.3,69.0,11.0,1893000,208230.0,Spring
+2013,3,Germany,Holiday/leisure/recreation,10.0,82.0,11.0,2261000,248710.0,Summer
+2013,4,Germany,Holiday/leisure/recreation,6.1,24.0,9.0,1580100,142209.0,Autumn
+2014,1,Germany,Holiday/leisure/recreation,5.0,15.0,8.0,1342500,107400.0,Winter
+2014,2,Germany,Holiday/leisure/recreation,8.1,85.0,12.0,2126600,255192.0,Spring
+2014,3,Germany,Holiday/leisure/recreation,9.6,106.0,12.0,2440400,292848.0,Summer
+2014,4,Germany,Holiday/leisure/recreation,6.3,26.0,9.0,1694900,152541.0,Autumn
+2015,1,Germany,Holiday/leisure/recreation,5.3,19.0,8.0,1531300,122504.0,Winter
+2015,2,Germany,Holiday/leisure/recreation,9.2,118.0,12.0,2344900,281388.0,Spring
+2015,3,Germany,Holiday/leisure/recreation,9.1,125.0,12.0,2770900,332508.0,Summer
+2015,4,Germany,Holiday/leisure/recreation,5.7,32.0,10.0,1995900,199590.0,Autumn
+2016,1,Germany,Holiday/leisure/recreation,5.3,21.0,7.0,1784700,124929.00000000001,Winter
+2016,2,Germany,Holiday/leisure/recreation,8.1,94.0,11.0,2598900,285879.0,Spring
+2016,3,Germany,Holiday/leisure/recreation,9.9,135.0,11.0,3061500,336765.0,Summer
+2016,4,Germany,Holiday/leisure/recreation,6.2,35.0,9.0,2139200,192528.0,Autumn
+2017,1,Germany,Holiday/leisure/recreation,6.5,20.0,7.0,1796100,125727.00000000001,Winter
+2017,2,Germany,Holiday/leisure/recreation,7.9,105.0,11.0,2769400,304634.0,Spring
+2017,3,Germany,Holiday/leisure/recreation,9.4,123.0,10.0,3095600,309560.0,Summer
+2017,4,Germany,Holiday/leisure/recreation,6.1,41.0,8.0,2270900,181672.0,Autumn
+2018,1,Germany,Holiday/leisure/recreation,5.7,29.0,9.0,1920700,172863.0,Winter
+2018,2,Germany,Holiday/leisure/recreation,7.5,121.0,11.0,2951900,324709.0,Spring
+2018,3,Germany,Holiday/leisure/recreation,9.1,148.0,11.0,3330900,366399.0,Summer
+2018,4,Germany,Holiday/leisure/recreation,6.6,46.0,9.0,2412800,217152.0,Autumn
+2019,1,Germany,Holiday/leisure/recreation,5.1,27.0,8.0,2026700,162136.0,Winter
+2019,2,Germany,Holiday/leisure/recreation,7.1,116.0,11.0,3021800,332398.0,Spring
+2019,3,Germany,Holiday/leisure/recreation,8.8,131.0,10.0,3334400,333440.0,Summer
+2019,4,Germany,Holiday/leisure/recreation,5.6,46.0,9.0,2424600,218214.0,Autumn
+2012,1,Germany,Other reason for journey,35.8,4.0,7.0,1165100,81557.00000000001,Winter
+2012,2,Germany,Other reason for journey,18.0,9.0,9.0,1817300,163557.0,Spring
+2012,3,Germany,Other reason for journey,21.8,5.0,3.0,2096700,62901.0,Summer
+2012,4,Germany,Other reason for journey,24.7,12.0,13.0,1438000,186940.0,Autumn
+2013,1,Germany,Other reason for journey,48.1,3.0,4.0,1251700,50068.0,Winter
+2013,2,Germany,Other reason for journey,20.5,11.0,8.0,1893000,151440.0,Spring
+2013,3,Germany,Other reason for journey,21.8,7.0,6.0,2261000,135660.0,Summer
+2013,4,Germany,Other reason for journey,29.2,7.0,13.0,1580100,205413.0,Autumn
+2014,1,Germany,Other reason for journey,39.0,6.0,13.0,1342500,174525.0,Winter
+2014,2,Germany,Other reason for journey,19.9,15.0,13.0,2126600,276458.0,Spring
+2014,3,Germany,Other reason for journey,19.5,5.0,7.0,2440400,170828.00000000003,Summer
+2014,4,Germany,Other reason for journey,25.4,7.0,11.0,1694900,186439.0,Autumn
+2015,1,Germany,Other reason for journey,47.3,8.0,10.0,1531300,153130.0,Winter
+2015,2,Germany,Other reason for journey,28.1,8.0,7.0,2344900,164143.00000000003,Spring
+2015,3,Germany,Other reason for journey,13.2,6.0,5.0,2770900,138545.0,Summer
+2015,4,Germany,Other reason for journey,33.3,17.0,9.0,1995900,179631.0,Autumn
+2016,1,Germany,Other reason for journey,28.4,7.0,9.0,1784700,160623.0,Winter
+2016,2,Germany,Other reason for journey,22.4,6.0,6.0,2598900,155934.0,Spring
+2016,3,Germany,Other reason for journey,11.3,9.0,7.0,3061500,214305.00000000003,Summer
+2016,4,Germany,Other reason for journey,20.0,6.0,6.0,2139200,128352.0,Autumn
+2017,1,Germany,Other reason for journey,23.2,5.0,6.0,1796100,107766.0,Winter
+2017,2,Germany,Other reason for journey,12.4,10.0,9.0,2769400,249246.0,Spring
+2017,3,Germany,Other reason for journey,8.5,6.0,8.0,3095600,247648.0,Summer
+2017,4,Germany,Other reason for journey,26.5,17.0,12.0,2270900,272508.0,Autumn
+2018,1,Germany,Other reason for journey,17.3,7.0,8.0,1920700,153656.0,Winter
+2018,2,Germany,Other reason for journey,10.1,11.0,8.0,2951900,236152.0,Spring
+2018,3,Germany,Other reason for journey,4.3,5.0,5.0,3330900,166545.0,Summer
+2018,4,Germany,Other reason for journey,10.5,11.0,12.0,2412800,289536.0,Autumn
+2019,1,Germany,Other reason for journey,14.0,9.0,8.0,2026700,162136.0,Winter
+2019,2,Germany,Other reason for journey,13.2,8.0,8.0,3021800,241744.0,Spring
+2019,3,Germany,Other reason for journey,3.6,8.0,13.0,3334400,433472.0,Summer
+2019,4,Germany,Other reason for journey,13.5,14.0,11.0,2424600,266706.0,Autumn
+2012,1,Germany,Visit to friends/relatives,7.8,7.0,6.0,1165100,69906.0,Winter
+2012,2,Germany,Visit to friends/relatives,7.1,4.0,3.0,1817300,54519.0,Spring
+2012,3,Germany,Visit to friends/relatives,8.9,4.0,3.0,2096700,62901.0,Summer
+2012,4,Germany,Visit to friends/relatives,4.7,3.0,3.0,1438000,43140.0,Autumn
+2013,1,Germany,Visit to friends/relatives,8.7,8.0,5.0,1251700,62585.0,Winter
+2013,2,Germany,Visit to friends/relatives,8.2,5.0,3.0,1893000,56790.0,Spring
+2013,3,Germany,Visit to friends/relatives,7.8,6.0,3.0,2261000,67830.0,Summer
+2013,4,Germany,Visit to friends/relatives,6.5,8.0,4.0,1580100,63204.0,Autumn
+2014,1,Germany,Visit to friends/relatives,7.8,8.0,5.0,1342500,67125.0,Winter
+2014,2,Germany,Visit to friends/relatives,7.9,9.0,4.0,2126600,85064.0,Spring
+2014,3,Germany,Visit to friends/relatives,9.4,7.0,3.0,2440400,73212.0,Summer
+2014,4,Germany,Visit to friends/relatives,5.9,8.0,5.0,1694900,84745.0,Autumn
+2015,1,Germany,Visit to friends/relatives,7.2,5.0,4.0,1531300,61252.0,Winter
+2015,2,Germany,Visit to friends/relatives,10.6,7.0,4.0,2344900,93796.0,Spring
+2015,3,Germany,Visit to friends/relatives,7.9,6.0,3.0,2770900,83127.0,Summer
+2015,4,Germany,Visit to friends/relatives,6.7,9.0,5.0,1995900,99795.0,Autumn
+2016,1,Germany,Visit to friends/relatives,7.1,8.0,5.0,1784700,89235.0,Winter
+2016,2,Germany,Visit to friends/relatives,6.1,7.0,3.0,2598900,77967.0,Spring
+2016,3,Germany,Visit to friends/relatives,7.5,6.0,2.0,3061500,61230.0,Summer
+2016,4,Germany,Visit to friends/relatives,6.7,11.0,4.0,2139200,85568.0,Autumn
+2017,1,Germany,Visit to friends/relatives,9.2,7.0,4.0,1796100,71844.0,Winter
+2017,2,Germany,Visit to friends/relatives,6.3,7.0,3.0,2769400,83082.0,Spring
+2017,3,Germany,Visit to friends/relatives,7.9,8.0,3.0,3095600,92868.0,Summer
+2017,4,Germany,Visit to friends/relatives,6.4,8.0,4.0,2270900,90836.0,Autumn
+2018,1,Germany,Visit to friends/relatives,6.6,8.0,4.0,1920700,76828.0,Winter
+2018,2,Germany,Visit to friends/relatives,6.7,12.0,6.0,2951900,177114.0,Spring
+2018,3,Germany,Visit to friends/relatives,6.7,8.0,3.0,3330900,99927.0,Summer
+2018,4,Germany,Visit to friends/relatives,6.4,7.0,4.0,2412800,96512.0,Autumn
+2019,1,Germany,Visit to friends/relatives,8.3,5.0,4.0,2026700,81068.0,Winter
+2019,2,Germany,Visit to friends/relatives,6.4,13.0,5.0,3021800,151090.0,Spring
+2019,3,Germany,Visit to friends/relatives,6.9,7.0,3.0,3334400,100032.0,Summer
+2019,4,Germany,Visit to friends/relatives,5.2,9.0,5.0,2424600,121230.0,Autumn
+2012,1,Great Britain,All reasons for journey,4.3,168.0,48.0,1165100,559248.0,Winter
+2012,2,Great Britain,All reasons for journey,4.4,218.0,40.0,1817300,726920.0,Spring
+2012,3,Great Britain,All reasons for journey,5.3,246.0,38.0,2096700,796746.0,Summer
+2012,4,Great Britain,All reasons for journey,4.4,186.0,44.0,1438000,632720.0,Autumn
+2013,1,Great Britain,All reasons for journey,4.5,176.0,45.0,1251700,563265.0,Winter
+2013,2,Great Britain,All reasons for journey,4.3,194.0,38.0,1893000,719340.0,Spring
+2013,3,Great Britain,All reasons for journey,5.5,281.0,39.0,2261000,881790.0,Summer
+2013,4,Great Britain,All reasons for journey,4.2,196.0,45.0,1580100,711045.0,Autumn
+2014,1,Great Britain,All reasons for journey,4.3,171.0,46.0,1342500,617550.0,Winter
+2014,2,Great Britain,All reasons for journey,4.2,223.0,39.0,2126600,829374.0,Spring
+2014,3,Great Britain,All reasons for journey,5.5,280.0,37.0,2440400,902948.0,Summer
+2014,4,Great Britain,All reasons for journey,3.9,212.0,45.0,1694900,762705.0,Autumn
+2015,1,Great Britain,All reasons for journey,4.1,181.0,47.0,1531300,719711.0,Winter
+2015,2,Great Britain,All reasons for journey,4.2,246.0,37.0,2344900,867613.0,Spring
+2015,3,Great Britain,All reasons for journey,5.1,309.0,37.0,2770900,1025233.0,Summer
+2015,4,Great Britain,All reasons for journey,3.6,236.0,44.0,1995900,878196.0,Autumn
+2016,1,Great Britain,All reasons for journey,3.8,214.0,47.0,1784700,838809.0,Winter
+2016,2,Great Britain,All reasons for journey,4.0,269.0,38.0,2598900,987582.0,Spring
+2016,3,Great Britain,All reasons for journey,5.0,337.0,37.0,3061500,1132755.0,Summer
+2016,4,Great Britain,All reasons for journey,3.8,241.0,42.0,2139200,898464.0,Autumn
+2017,1,Great Britain,All reasons for journey,4.0,198.0,45.0,1796100,808245.0,Winter
+2017,2,Great Britain,All reasons for journey,4.3,267.0,34.0,2769400,941596.0000000001,Spring
+2017,3,Great Britain,All reasons for journey,5.2,303.0,34.0,3095600,1052504.0,Summer
+2017,4,Great Britain,All reasons for journey,3.9,239.0,40.0,2270900,908360.0,Autumn
+2018,1,Great Britain,All reasons for journey,3.9,206.0,42.0,1920700,806694.0,Winter
+2018,2,Great Britain,All reasons for journey,3.9,262.0,33.0,2951900,974127.0,Spring
+2018,3,Great Britain,All reasons for journey,4.8,292.0,31.0,3330900,1032579.0,Summer
+2018,4,Great Britain,All reasons for journey,3.6,221.0,37.0,2412800,892736.0,Autumn
+2019,1,Great Britain,All reasons for journey,3.7,195.0,40.0,2026700,810680.0,Winter
+2019,2,Great Britain,All reasons for journey,4.1,254.0,32.0,3021800,966976.0,Spring
+2019,3,Great Britain,All reasons for journey,4.9,305.0,32.0,3334400,1067008.0,Summer
+2019,4,Great Britain,All reasons for journey,3.5,223.0,38.0,2424600,921348.0,Autumn
+2012,1,Great Britain,Business,2.7,57.0,52.0,1165100,605852.0,Winter
+2012,2,Great Britain,Business,2.7,58.0,53.0,1817300,963169.0,Spring
+2012,3,Great Britain,Business,2.8,50.0,49.0,2096700,1027383.0,Summer
+2012,4,Great Britain,Business,3.3,52.0,45.0,1438000,647100.0,Autumn
+2013,1,Great Britain,Business,2.9,58.0,51.0,1251700,638367.0,Winter
+2013,2,Great Britain,Business,2.5,47.0,49.0,1893000,927570.0,Spring
+2013,3,Great Britain,Business,2.8,45.0,53.0,2261000,1198330.0,Summer
+2013,4,Great Britain,Business,3.3,54.0,47.0,1580100,742647.0,Autumn
+2014,1,Great Britain,Business,2.6,47.0,51.0,1342500,684675.0,Winter
+2014,2,Great Britain,Business,2.8,62.0,46.0,2126600,978236.0,Spring
+2014,3,Great Britain,Business,3.0,44.0,45.0,2440400,1098180.0,Summer
+2014,4,Great Britain,Business,3.0,53.0,49.0,1694900,830501.0,Autumn
+2015,1,Great Britain,Business,2.4,51.0,47.0,1531300,719711.0,Winter
+2015,2,Great Britain,Business,3.0,52.0,45.0,2344900,1055205.0,Spring
+2015,3,Great Britain,Business,2.7,59.0,51.0,2770900,1413159.0,Summer
+2015,4,Great Britain,Business,2.6,64.0,49.0,1995900,977991.0,Autumn
+2016,1,Great Britain,Business,2.4,48.0,47.0,1784700,838809.0,Winter
+2016,2,Great Britain,Business,2.8,66.0,47.0,2598900,1221483.0,Spring
+2016,3,Great Britain,Business,2.7,57.0,46.0,3061500,1408290.0,Summer
+2016,4,Great Britain,Business,3.3,63.0,47.0,2139200,1005424.0,Autumn
+2017,1,Great Britain,Business,2.8,47.0,47.0,1796100,844167.0,Winter
+2017,2,Great Britain,Business,3.9,60.0,39.0,2769400,1080066.0,Spring
+2017,3,Great Britain,Business,4.2,62.0,47.0,3095600,1454932.0,Summer
+2017,4,Great Britain,Business,3.4,55.0,42.0,2270900,953778.0,Autumn
+2018,1,Great Britain,Business,3.0,56.0,46.0,1920700,883522.0,Winter
+2018,2,Great Britain,Business,2.4,54.0,43.0,2951900,1269317.0,Spring
+2018,3,Great Britain,Business,3.2,61.0,45.0,3330900,1498905.0,Summer
+2018,4,Great Britain,Business,2.8,56.0,43.0,2412800,1037504.0,Autumn
+2019,1,Great Britain,Business,2.6,57.0,48.0,2026700,972816.0,Winter
+2019,2,Great Britain,Business,3.1,55.0,41.0,3021800,1238938.0,Spring
+2019,3,Great Britain,Business,3.3,55.0,40.0,3334400,1333760.0,Summer
+2019,4,Great Britain,Business,2.9,53.0,44.0,2424600,1066824.0,Autumn
+2012,1,Great Britain,Holiday/leisure/recreation,3.9,52.0,42.0,1165100,489342.0,Winter
+2012,2,Great Britain,Holiday/leisure/recreation,4.4,82.0,29.0,1817300,527017.0,Spring
+2012,3,Great Britain,Holiday/leisure/recreation,5.8,101.0,27.0,2096700,566109.0,Summer
+2012,4,Great Britain,Holiday/leisure/recreation,4.5,60.0,35.0,1438000,503299.99999999994,Autumn
+2013,1,Great Britain,Holiday/leisure/recreation,4.0,51.0,34.0,1251700,425578.00000000006,Winter
+2013,2,Great Britain,Holiday/leisure/recreation,4.9,83.0,29.0,1893000,548970.0,Spring
+2013,3,Great Britain,Holiday/leisure/recreation,6.2,120.0,27.0,2261000,610470.0,Summer
+2013,4,Great Britain,Holiday/leisure/recreation,3.9,58.0,34.0,1580100,537234.0,Autumn
+2014,1,Great Britain,Holiday/leisure/recreation,3.7,60.0,40.0,1342500,537000.0,Winter
+2014,2,Great Britain,Holiday/leisure/recreation,4.4,81.0,28.0,2126600,595448.0,Spring
+2014,3,Great Britain,Holiday/leisure/recreation,5.8,117.0,25.0,2440400,610100.0,Summer
+2014,4,Great Britain,Holiday/leisure/recreation,3.7,80.0,34.0,1694900,576266.0,Autumn
+2015,1,Great Britain,Holiday/leisure/recreation,3.8,61.0,39.0,1531300,597207.0,Winter
+2015,2,Great Britain,Holiday/leisure/recreation,4.4,111.0,27.0,2344900,633123.0,Spring
+2015,3,Great Britain,Holiday/leisure/recreation,5.7,141.0,26.0,2770900,720434.0,Summer
+2015,4,Great Britain,Holiday/leisure/recreation,3.6,90.0,36.0,1995900,718524.0,Autumn
+2016,1,Great Britain,Holiday/leisure/recreation,3.5,94.0,44.0,1784700,785268.0,Winter
+2016,2,Great Britain,Holiday/leisure/recreation,4.4,114.0,29.0,2598900,753681.0,Spring
+2016,3,Great Britain,Holiday/leisure/recreation,5.5,160.0,26.0,3061500,795990.0,Summer
+2016,4,Great Britain,Holiday/leisure/recreation,3.6,87.0,33.0,2139200,705936.0,Autumn
+2017,1,Great Britain,Holiday/leisure/recreation,3.4,74.0,38.0,1796100,682518.0,Winter
+2017,2,Great Britain,Holiday/leisure/recreation,4.4,118.0,24.0,2769400,664656.0,Spring
+2017,3,Great Britain,Holiday/leisure/recreation,5.6,129.0,23.0,3095600,711988.0,Summer
+2017,4,Great Britain,Holiday/leisure/recreation,3.7,89.0,31.0,2270900,703979.0,Autumn
+2018,1,Great Britain,Holiday/leisure/recreation,3.5,83.0,35.0,1920700,672245.0,Winter
+2018,2,Great Britain,Holiday/leisure/recreation,4.1,119.0,24.0,2951900,708456.0,Spring
+2018,3,Great Britain,Holiday/leisure/recreation,5.3,130.0,21.0,3330900,699489.0,Summer
+2018,4,Great Britain,Holiday/leisure/recreation,3.4,89.0,28.0,2412800,675584.0000000001,Autumn
+2019,1,Great Britain,Holiday/leisure/recreation,3.3,77.0,33.0,2026700,668811.0,Winter
+2019,2,Great Britain,Holiday/leisure/recreation,4.3,115.0,23.0,3021800,695014.0,Spring
+2019,3,Great Britain,Holiday/leisure/recreation,5.6,141.0,22.0,3334400,733568.0,Summer
+2019,4,Great Britain,Holiday/leisure/recreation,3.6,90.0,30.0,2424600,727380.0,Autumn
+2012,1,Great Britain,Other reason for journey,5.0,6.0,12.0,1165100,139812.0,Winter
+2012,2,Great Britain,Other reason for journey,5.4,8.0,9.0,1817300,163557.0,Spring
+2012,3,Great Britain,Other reason for journey,6.6,10.0,7.0,2096700,146769.0,Summer
+2012,4,Great Britain,Other reason for journey,3.5,11.0,19.0,1438000,273220.0,Autumn
+2013,1,Great Britain,Other reason for journey,5.8,10.0,15.0,1251700,187755.0,Winter
+2013,2,Great Britain,Other reason for journey,3.0,4.0,6.0,1893000,113580.0,Spring
+2013,3,Great Britain,Other reason for journey,2.5,6.0,14.0,2261000,316540.00000000006,Summer
+2013,4,Great Britain,Other reason for journey,2.7,5.0,12.0,1580100,189612.0,Autumn
+2014,1,Great Britain,Other reason for journey,4.7,4.0,17.0,1342500,228225.00000000003,Winter
+2014,2,Great Britain,Other reason for journey,2.5,4.0,12.0,2126600,255192.0,Spring
+2014,3,Great Britain,Other reason for journey,4.1,9.0,11.0,2440400,268444.0,Summer
+2014,4,Great Britain,Other reason for journey,2.6,7.0,21.0,1694900,355929.0,Autumn
+2015,1,Great Britain,Other reason for journey,3.4,5.0,18.0,1531300,275634.0,Winter
+2015,2,Great Britain,Other reason for journey,2.1,7.0,17.0,2344900,398633.0,Spring
+2015,3,Great Britain,Other reason for journey,2.2,7.0,15.0,2770900,415635.0,Summer
+2015,4,Great Britain,Other reason for journey,1.4,5.0,18.0,1995900,359262.0,Autumn
+2016,1,Great Britain,Other reason for journey,2.7,5.0,19.0,1784700,339093.0,Winter
+2016,2,Great Britain,Other reason for journey,1.4,7.0,14.0,2598900,363846.00000000006,Spring
+2016,3,Great Britain,Other reason for journey,1.7,8.0,11.0,3061500,336765.0,Summer
+2016,4,Great Britain,Other reason for journey,1.3,8.0,17.0,2139200,363664.0,Autumn
+2017,1,Great Britain,Other reason for journey,3.2,5.0,14.0,1796100,251454.00000000003,Winter
+2017,2,Great Britain,Other reason for journey,2.0,7.0,14.0,2769400,387716.00000000006,Spring
+2017,3,Great Britain,Other reason for journey,1.5,7.0,10.0,3095600,309560.0,Summer
+2017,4,Great Britain,Other reason for journey,2.1,11.0,13.0,2270900,295217.0,Autumn
+2018,1,Great Britain,Other reason for journey,1.9,5.0,12.0,1920700,230484.0,Winter
+2018,2,Great Britain,Other reason for journey,1.3,4.0,10.0,2951900,295190.0,Spring
+2018,3,Great Britain,Other reason for journey,0.7,6.0,12.0,3330900,399708.0,Summer
+2018,4,Great Britain,Other reason for journey,1.2,4.0,15.0,2412800,361920.0,Autumn
+2019,1,Great Britain,Other reason for journey,1.5,5.0,12.0,2026700,243204.0,Winter
+2019,2,Great Britain,Other reason for journey,0.9,6.0,9.0,3021800,271962.0,Spring
+2019,3,Great Britain,Other reason for journey,0.5,5.0,10.0,3334400,333440.0,Summer
+2019,4,Great Britain,Other reason for journey,1.5,8.0,13.0,2424600,315198.0,Autumn
+2012,1,Great Britain,Visit to friends/relatives,5.7,53.0,56.0,1165100,652456.0000000001,Winter
+2012,2,Great Britain,Visit to friends/relatives,5.3,70.0,62.0,1817300,1126726.0,Spring
+2012,3,Great Britain,Visit to friends/relatives,6.0,86.0,68.0,2096700,1425756.0,Summer
+2012,4,Great Britain,Visit to friends/relatives,5.0,64.0,60.0,1438000,862800.0,Autumn
+2013,1,Great Britain,Visit to friends/relatives,5.7,57.0,56.0,1251700,700952.0000000001,Winter
+2013,2,Great Britain,Visit to friends/relatives,5.0,59.0,60.0,1893000,1135800.0,Spring
+2013,3,Great Britain,Visit to friends/relatives,6.6,111.0,63.0,2261000,1424430.0,Summer
+2013,4,Great Britain,Visit to friends/relatives,5.0,79.0,60.0,1580100,948060.0,Autumn
+2014,1,Great Britain,Visit to friends/relatives,5.8,61.0,53.0,1342500,711525.0,Winter
+2014,2,Great Britain,Visit to friends/relatives,5.1,75.0,57.0,2126600,1212162.0,Spring
+2014,3,Great Britain,Visit to friends/relatives,6.4,110.0,61.0,2440400,1488644.0,Summer
+2014,4,Great Britain,Visit to friends/relatives,4.8,71.0,59.0,1694900,999991.0,Autumn
+2015,1,Great Britain,Visit to friends/relatives,5.5,63.0,58.0,1531300,888153.9999999999,Winter
+2015,2,Great Britain,Visit to friends/relatives,4.9,76.0,57.0,2344900,1336593.0,Spring
+2015,3,Great Britain,Visit to friends/relatives,6.2,101.0,61.0,2770900,1690249.0,Summer
+2015,4,Great Britain,Visit to friends/relatives,4.8,76.0,54.0,1995900,1077786.0,Autumn
+2016,1,Great Britain,Visit to friends/relatives,5.1,68.0,54.0,1784700,963738.0000000001,Winter
+2016,2,Great Britain,Visit to friends/relatives,5.0,82.0,56.0,2598900,1455384.0000000002,Spring
+2016,3,Great Britain,Visit to friends/relatives,6.1,111.0,61.0,3061500,1867515.0,Summer
+2016,4,Great Britain,Visit to friends/relatives,5.0,83.0,54.0,2139200,1155168.0,Autumn
+2017,1,Great Britain,Visit to friends/relatives,5.3,73.0,56.0,1796100,1005816.0000000001,Winter
+2017,2,Great Britain,Visit to friends/relatives,4.9,82.0,55.0,2769400,1523170.0000000002,Spring
+2017,3,Great Britain,Visit to friends/relatives,6.2,105.0,58.0,3095600,1795447.9999999998,Summer
+2017,4,Great Britain,Visit to friends/relatives,4.7,85.0,56.0,2270900,1271704.0000000002,Autumn
+2018,1,Great Britain,Visit to friends/relatives,5.2,62.0,53.0,1920700,1017971.0,Winter
+2018,2,Great Britain,Visit to friends/relatives,4.9,85.0,52.0,2951900,1534988.0,Spring
+2018,3,Great Britain,Visit to friends/relatives,6.0,95.0,55.0,3330900,1831995.0000000002,Summer
+2018,4,Great Britain,Visit to friends/relatives,4.7,72.0,54.0,2412800,1302912.0,Autumn
+2019,1,Great Britain,Visit to friends/relatives,5.3,56.0,50.0,2026700,1013350.0,Winter
+2019,2,Great Britain,Visit to friends/relatives,5.1,78.0,54.0,3021800,1631772.0,Spring
+2019,3,Great Britain,Visit to friends/relatives,6.1,105.0,56.0,3334400,1867264.0000000002,Summer
+2019,4,Great Britain,Visit to friends/relatives,4.3,72.0,52.0,2424600,1260792.0,Autumn
+2012,1,Italy,All reasons for journey,5.7,18.0,4.0,1165100,46604.0,Winter
+2012,2,Italy,All reasons for journey,7.8,30.0,4.0,1817300,72692.0,Spring
+2012,3,Italy,All reasons for journey,10.9,39.0,5.0,2096700,104835.0,Summer
+2012,4,Italy,All reasons for journey,12.3,20.0,3.0,1438000,43140.0,Autumn
+2013,1,Italy,All reasons for journey,6.8,19.0,3.0,1251700,37551.0,Winter
+2013,2,Italy,All reasons for journey,8.1,32.0,4.0,1893000,75720.0,Spring
+2013,3,Italy,All reasons for journey,10.8,49.0,4.0,2261000,90440.0,Summer
+2013,4,Italy,All reasons for journey,8.8,18.0,3.0,1580100,47403.0,Autumn
+2014,1,Italy,All reasons for journey,6.3,18.0,4.0,1342500,53700.0,Winter
+2014,2,Italy,All reasons for journey,8.9,31.0,3.0,2126600,63798.0,Spring
+2014,3,Italy,All reasons for journey,11.6,60.0,4.0,2440400,97616.0,Summer
+2014,4,Italy,All reasons for journey,9.0,23.0,3.0,1694900,50847.0,Autumn
+2015,1,Italy,All reasons for journey,6.6,24.0,4.0,1531300,61252.0,Winter
+2015,2,Italy,All reasons for journey,6.9,32.0,4.0,2344900,93796.0,Spring
+2015,3,Italy,All reasons for journey,10.7,70.0,4.0,2770900,110836.0,Summer
+2015,4,Italy,All reasons for journey,8.5,26.0,3.0,1995900,59877.0,Autumn
+2016,1,Italy,All reasons for journey,5.3,22.0,4.0,1784700,71388.0,Winter
+2016,2,Italy,All reasons for journey,7.5,44.0,4.0,2598900,103956.0,Spring
+2016,3,Italy,All reasons for journey,9.9,88.0,5.0,3061500,153075.0,Summer
+2016,4,Italy,All reasons for journey,6.4,21.0,3.0,2139200,64176.0,Autumn
+2017,1,Italy,All reasons for journey,5.7,23.0,4.0,1796100,71844.0,Winter
+2017,2,Italy,All reasons for journey,8.8,55.0,4.0,2769400,110776.0,Spring
+2017,3,Italy,All reasons for journey,9.0,80.0,5.0,3095600,154780.0,Summer
+2017,4,Italy,All reasons for journey,9.6,33.0,4.0,2270900,90836.0,Autumn
+2018,1,Italy,All reasons for journey,6.9,30.0,4.0,1920700,76828.0,Winter
+2018,2,Italy,All reasons for journey,6.8,46.0,4.0,2951900,118076.0,Spring
+2018,3,Italy,All reasons for journey,9.3,82.0,4.0,3330900,133236.0,Summer
+2018,4,Italy,All reasons for journey,9.3,39.0,4.0,2412800,96512.0,Autumn
+2019,1,Italy,All reasons for journey,9.4,25.0,3.0,2026700,60801.0,Winter
+2019,2,Italy,All reasons for journey,6.6,36.0,3.0,3021800,90654.0,Spring
+2019,3,Italy,All reasons for journey,8.5,90.0,5.0,3334400,166720.0,Summer
+2019,4,Italy,All reasons for journey,7.3,28.0,4.0,2424600,96984.0,Autumn
+2012,1,Italy,Business,5.7,3.0,2.0,1165100,23302.0,Winter
+2012,2,Italy,Business,6.6,2.0,2.0,1817300,36346.0,Spring
+2012,3,Italy,Business,5.8,2.0,2.0,2096700,41934.0,Summer
+2012,4,Italy,Business,17.9,4.0,3.0,1438000,43140.0,Autumn
+2013,1,Italy,Business,11.2,6.0,2.0,1251700,25034.0,Winter
+2013,2,Italy,Business,11.4,5.0,3.0,1893000,56790.0,Spring
+2013,3,Italy,Business,11.2,3.0,2.0,2261000,45220.0,Summer
+2013,4,Italy,Business,7.0,5.0,3.0,1580100,47403.0,Autumn
+2014,1,Italy,Business,12.4,4.0,3.0,1342500,40275.0,Winter
+2014,2,Italy,Business,3.6,4.0,4.0,2126600,85064.0,Spring
+2014,3,Italy,Business,5.5,4.0,3.0,2440400,73212.0,Summer
+2014,4,Italy,Business,13.7,7.0,3.0,1694900,50847.0,Autumn
+2015,1,Italy,Business,3.0,5.0,3.0,1531300,45939.0,Winter
+2015,2,Italy,Business,6.9,5.0,4.0,2344900,93796.0,Spring
+2015,3,Italy,Business,17.3,4.0,2.0,2770900,55418.0,Summer
+2015,4,Italy,Business,10.7,6.0,3.0,1995900,59877.0,Autumn
+2016,1,Italy,Business,4.0,4.0,4.0,1784700,71388.0,Winter
+2016,2,Italy,Business,12.4,11.0,4.0,2598900,103956.0,Spring
+2016,3,Italy,Business,10.9,4.0,2.0,3061500,61230.0,Summer
+2016,4,Italy,Business,6.5,6.0,4.0,2139200,85568.0,Autumn
+2017,1,Italy,Business,7.3,5.0,3.0,1796100,53883.0,Winter
+2017,2,Italy,Business,11.4,15.0,5.0,2769400,138470.0,Spring
+2017,3,Italy,Business,6.7,7.0,3.0,3095600,92868.0,Summer
+2017,4,Italy,Business,18.0,8.0,3.0,2270900,68127.0,Autumn
+2018,1,Italy,Business,7.9,5.0,3.0,1920700,57621.0,Winter
+2018,2,Italy,Business,4.9,6.0,3.0,2951900,88557.0,Spring
+2018,3,Italy,Business,9.9,4.0,2.0,3330900,66618.0,Summer
+2018,4,Italy,Business,27.1,8.0,3.0,2412800,72384.0,Autumn
+2019,1,Italy,Business,19.6,5.0,2.0,2026700,40534.0,Winter
+2019,2,Italy,Business,6.2,7.0,4.0,3021800,120872.0,Spring
+2019,3,Italy,Business,10.4,9.0,5.0,3334400,166720.0,Summer
+2019,4,Italy,Business,9.2,4.0,4.0,2424600,96984.0,Autumn
+2012,1,Italy,Holiday/leisure/recreation,4.0,12.0,7.0,1165100,81557.00000000001,Winter
+2012,2,Italy,Holiday/leisure/recreation,5.3,20.0,5.0,1817300,90865.0,Spring
+2012,3,Italy,Holiday/leisure/recreation,7.2,19.0,3.0,2096700,62901.0,Summer
+2012,4,Italy,Holiday/leisure/recreation,3.9,8.0,3.0,1438000,43140.0,Autumn
+2013,1,Italy,Holiday/leisure/recreation,3.5,10.0,5.0,1251700,62585.0,Winter
+2013,2,Italy,Holiday/leisure/recreation,6.1,12.0,3.0,1893000,56790.0,Spring
+2013,3,Italy,Holiday/leisure/recreation,7.5,25.0,4.0,2261000,90440.0,Summer
+2013,4,Italy,Holiday/leisure/recreation,7.9,8.0,4.0,1580100,63204.0,Autumn
+2014,1,Italy,Holiday/leisure/recreation,3.9,7.0,5.0,1342500,67125.0,Winter
+2014,2,Italy,Holiday/leisure/recreation,5.4,12.0,4.0,2126600,85064.0,Spring
+2014,3,Italy,Holiday/leisure/recreation,10.6,24.0,4.0,2440400,97616.0,Summer
+2014,4,Italy,Holiday/leisure/recreation,4.9,8.0,5.0,1694900,84745.0,Autumn
+2015,1,Italy,Holiday/leisure/recreation,3.9,8.0,5.0,1531300,76565.0,Winter
+2015,2,Italy,Holiday/leisure/recreation,4.5,18.0,4.0,2344900,93796.0,Spring
+2015,3,Italy,Holiday/leisure/recreation,7.9,38.0,5.0,2770900,138545.0,Summer
+2015,4,Italy,Holiday/leisure/recreation,4.8,13.0,5.0,1995900,99795.0,Autumn
+2016,1,Italy,Holiday/leisure/recreation,3.5,8.0,4.0,1784700,71388.0,Winter
+2016,2,Italy,Holiday/leisure/recreation,5.1,22.0,4.0,2598900,103956.0,Spring
+2016,3,Italy,Holiday/leisure/recreation,7.8,45.0,5.0,3061500,153075.0,Summer
+2016,4,Italy,Holiday/leisure/recreation,6.0,9.0,3.0,2139200,64176.0,Autumn
+2017,1,Italy,Holiday/leisure/recreation,4.2,12.0,5.0,1796100,89805.0,Winter
+2017,2,Italy,Holiday/leisure/recreation,5.8,26.0,4.0,2769400,110776.0,Spring
+2017,3,Italy,Holiday/leisure/recreation,7.3,46.0,5.0,3095600,154780.0,Summer
+2017,4,Italy,Holiday/leisure/recreation,4.9,12.0,4.0,2270900,90836.0,Autumn
+2018,1,Italy,Holiday/leisure/recreation,3.6,16.0,5.0,1920700,96035.0,Winter
+2018,2,Italy,Holiday/leisure/recreation,4.9,27.0,4.0,2951900,118076.0,Spring
+2018,3,Italy,Holiday/leisure/recreation,7.4,55.0,5.0,3330900,166545.0,Summer
+2018,4,Italy,Holiday/leisure/recreation,4.3,18.0,5.0,2412800,120640.0,Autumn
+2019,1,Italy,Holiday/leisure/recreation,5.5,12.0,4.0,2026700,81068.0,Winter
+2019,2,Italy,Holiday/leisure/recreation,5.5,19.0,3.0,3021800,90654.0,Spring
+2019,3,Italy,Holiday/leisure/recreation,7.7,66.0,5.0,3334400,166720.0,Summer
+2019,4,Italy,Holiday/leisure/recreation,5.0,17.0,4.0,2424600,96984.0,Autumn
+2012,1,Italy,Other reason for journey,10.9,1.0,5.0,1165100,58255.0,Winter
+2012,2,Italy,Other reason for journey,13.0,6.0,13.0,1817300,236249.0,Spring
+2012,3,Italy,Other reason for journey,14.3,16.0,26.0,2096700,545142.0,Summer
+2012,4,Italy,Other reason for journey,17.2,5.0,14.0,1438000,201320.00000000003,Autumn
+2013,1,Italy,Other reason for journey,18.9,2.0,6.0,1251700,75102.0,Winter
+2013,2,Italy,Other reason for journey,10.3,12.0,13.0,1893000,246090.0,Spring
+2013,3,Italy,Other reason for journey,18.8,18.0,15.0,2261000,339150.0,Summer
+2013,4,Italy,Other reason for journey,20.7,3.0,7.0,1580100,110607.00000000001,Autumn
+2014,1,Italy,Other reason for journey,8.2,4.0,5.0,1342500,67125.0,Winter
+2014,2,Italy,Other reason for journey,33.7,12.0,5.0,2126600,106330.0,Spring
+2014,3,Italy,Other reason for journey,15.7,28.0,25.0,2440400,610100.0,Summer
+2014,4,Italy,Other reason for journey,24.9,7.0,8.0,1694900,135592.0,Autumn
+2015,1,Italy,Other reason for journey,15.2,6.0,12.0,1531300,183756.0,Winter
+2015,2,Italy,Other reason for journey,27.3,6.0,6.0,2344900,140694.0,Spring
+2015,3,Italy,Other reason for journey,15.7,24.0,19.0,2770900,526471.0,Summer
+2015,4,Italy,Other reason for journey,22.9,4.0,7.0,1995900,139713.0,Autumn
+2016,1,Italy,Other reason for journey,10.5,6.0,9.0,1784700,160623.0,Winter
+2016,2,Italy,Other reason for journey,9.6,8.0,10.0,2598900,259890.0,Spring
+2016,3,Italy,Other reason for journey,15.4,30.0,20.0,3061500,612300.0,Summer
+2016,4,Italy,Other reason for journey,7.4,3.0,11.0,2139200,235312.0,Autumn
+2017,1,Italy,Other reason for journey,11.1,3.0,5.0,1796100,89805.0,Winter
+2017,2,Italy,Other reason for journey,16.2,10.0,10.0,2769400,276940.0,Spring
+2017,3,Italy,Other reason for journey,15.0,22.0,18.0,3095600,557208.0,Summer
+2017,4,Italy,Other reason for journey,23.3,5.0,6.0,2270900,136254.0,Autumn
+2018,1,Italy,Other reason for journey,16.0,6.0,10.0,1920700,192070.0,Winter
+2018,2,Italy,Other reason for journey,20.4,7.0,7.0,2951900,206633.00000000003,Spring
+2018,3,Italy,Other reason for journey,12.3,17.0,16.0,3330900,532944.0,Summer
+2018,4,Italy,Other reason for journey,17.0,8.0,9.0,2412800,217152.0,Autumn
+2019,1,Italy,Other reason for journey,12.3,5.0,13.0,2026700,263471.0,Winter
+2019,2,Italy,Other reason for journey,9.0,5.0,11.0,3021800,332398.0,Spring
+2019,3,Italy,Other reason for journey,9.9,10.0,13.0,3334400,433472.0,Summer
+2019,4,Italy,Other reason for journey,22.0,3.0,4.0,2424600,96984.0,Autumn
+2012,1,Italy,Visit to friends/relatives,8.9,2.0,1.0,1165100,11651.0,Winter
+2012,2,Italy,Visit to friends/relatives,8.7,3.0,1.0,1817300,18173.0,Spring
+2012,3,Italy,Visit to friends/relatives,9.2,2.0,1.0,2096700,20967.0,Summer
+2012,4,Italy,Visit to friends/relatives,14.8,3.0,2.0,1438000,28760.0,Autumn
+2013,1,Italy,Visit to friends/relatives,5.7,2.0,2.0,1251700,25034.0,Winter
+2013,2,Italy,Visit to friends/relatives,7.6,2.0,2.0,1893000,37860.0,Spring
+2013,3,Italy,Visit to friends/relatives,12.0,3.0,1.0,2261000,22610.0,Summer
+2013,4,Italy,Visit to friends/relatives,5.7,3.0,2.0,1580100,31602.0,Autumn
+2014,1,Italy,Visit to friends/relatives,7.5,3.0,2.0,1342500,26850.0,Winter
+2014,2,Italy,Visit to friends/relatives,6.5,2.0,1.0,2126600,21266.0,Spring
+2014,3,Italy,Visit to friends/relatives,8.5,3.0,1.0,2440400,24404.0,Summer
+2014,4,Italy,Visit to friends/relatives,6.6,2.0,2.0,1694900,33898.0,Autumn
+2015,1,Italy,Visit to friends/relatives,8.5,5.0,2.0,1531300,30626.0,Winter
+2015,2,Italy,Visit to friends/relatives,5.8,3.0,2.0,2344900,46898.0,Spring
+2015,3,Italy,Visit to friends/relatives,10.3,5.0,2.0,2770900,55418.0,Summer
+2015,4,Italy,Visit to friends/relatives,7.4,3.0,2.0,1995900,39918.0,Autumn
+2016,1,Italy,Visit to friends/relatives,7.3,4.0,2.0,1784700,35694.0,Winter
+2016,2,Italy,Visit to friends/relatives,10.0,4.0,2.0,2598900,51978.0,Spring
+2016,3,Italy,Visit to friends/relatives,7.3,8.0,2.0,3061500,61230.0,Summer
+2016,4,Italy,Visit to friends/relatives,6.4,3.0,2.0,2139200,42784.0,Autumn
+2017,1,Italy,Visit to friends/relatives,5.7,3.0,2.0,1796100,35922.0,Winter
+2017,2,Italy,Visit to friends/relatives,9.5,4.0,2.0,2769400,55388.0,Spring
+2017,3,Italy,Visit to friends/relatives,8.5,5.0,2.0,3095600,61912.0,Summer
+2017,4,Italy,Visit to friends/relatives,7.0,7.0,3.0,2270900,68127.0,Autumn
+2018,1,Italy,Visit to friends/relatives,7.6,3.0,2.0,1920700,38414.0,Winter
+2018,2,Italy,Visit to friends/relatives,5.4,7.0,3.0,2951900,88557.0,Spring
+2018,3,Italy,Visit to friends/relatives,13.5,5.0,2.0,3330900,66618.0,Summer
+2018,4,Italy,Visit to friends/relatives,7.9,5.0,3.0,2412800,72384.0,Autumn
+2019,1,Italy,Visit to friends/relatives,9.5,4.0,2.0,2026700,40534.0,Winter
+2019,2,Italy,Visit to friends/relatives,7.5,5.0,2.0,3021800,60436.0,Spring
+2019,3,Italy,Visit to friends/relatives,9.3,4.0,2.0,3334400,66688.0,Summer
+2019,4,Italy,Visit to friends/relatives,5.5,4.0,2.0,2424600,48492.0,Autumn
+2012,1,Other Europe (14),All reasons for journey,8.4,96.0,19.0,1165100,221369.0,Winter
+2012,2,Other Europe (14),All reasons for journey,8.3,145.0,19.0,1817300,345287.0,Spring
+2012,3,Other Europe (14),All reasons for journey,10.4,177.0,19.0,2096700,398373.0,Summer
+2012,4,Other Europe (14),All reasons for journey,8.8,125.0,20.0,1438000,287600.0,Autumn
+2013,1,Other Europe (14),All reasons for journey,7.9,120.0,20.0,1251700,250340.0,Winter
+2013,2,Other Europe (14),All reasons for journey,8.5,159.0,20.0,1893000,378600.0,Spring
+2013,3,Other Europe (14),All reasons for journey,10.0,226.0,18.0,2261000,406980.0,Summer
+2013,4,Other Europe (14),All reasons for journey,8.1,124.0,20.0,1580100,316020.0,Autumn
+2014,1,Other Europe (14),All reasons for journey,7.8,104.0,19.0,1342500,255075.0,Winter
+2014,2,Other Europe (14),All reasons for journey,9.1,177.0,19.0,2126600,404054.0,Spring
+2014,3,Other Europe (14),All reasons for journey,9.7,226.0,18.0,2440400,439272.0,Summer
+2014,4,Other Europe (14),All reasons for journey,8.9,131.0,18.0,1694900,305082.0,Autumn
+2015,1,Other Europe (14),All reasons for journey,8.4,117.0,20.0,1531300,306260.0,Winter
+2015,2,Other Europe (14),All reasons for journey,8.2,192.0,18.0,2344900,422082.0,Spring
+2015,3,Other Europe (14),All reasons for journey,10.1,301.0,19.0,2770900,526471.0,Summer
+2015,4,Other Europe (14),All reasons for journey,7.5,161.0,20.0,1995900,399180.0,Autumn
+2016,1,Other Europe (14),All reasons for journey,9.6,137.0,20.0,1784700,356940.0,Winter
+2016,2,Other Europe (14),All reasons for journey,8.2,208.0,19.0,2598900,493791.0,Spring
+2016,3,Other Europe (14),All reasons for journey,9.7,324.0,19.0,3061500,581685.0,Summer
+2016,4,Other Europe (14),All reasons for journey,8.0,151.0,20.0,2139200,427840.0,Autumn
+2017,1,Other Europe (14),All reasons for journey,7.1,121.0,19.0,1796100,341259.0,Winter
+2017,2,Other Europe (14),All reasons for journey,7.4,250.0,21.0,2769400,581574.0,Spring
+2017,3,Other Europe (14),All reasons for journey,8.8,316.0,19.0,3095600,588164.0,Summer
+2017,4,Other Europe (14),All reasons for journey,7.8,196.0,21.0,2270900,476889.0,Autumn
+2018,1,Other Europe (14),All reasons for journey,8.0,151.0,21.0,1920700,403347.0,Winter
+2018,2,Other Europe (14),All reasons for journey,7.5,262.0,20.0,2951900,590380.0,Spring
+2018,3,Other Europe (14),All reasons for journey,8.2,300.0,19.0,3330900,632871.0,Summer
+2018,4,Other Europe (14),All reasons for journey,8.0,176.0,20.0,2412800,482560.0,Autumn
+2019,1,Other Europe (14),All reasons for journey,6.4,148.0,21.0,2026700,425607.0,Winter
+2019,2,Other Europe (14),All reasons for journey,7.9,285.0,20.0,3021800,604360.0,Spring
+2019,3,Other Europe (14),All reasons for journey,8.0,323.0,20.0,3334400,666880.0,Summer
+2019,4,Other Europe (14),All reasons for journey,7.4,203.0,23.0,2424600,557658.0,Autumn
+2012,1,Other Europe (14),Business,4.9,28.0,18.0,1165100,209718.0,Winter
+2012,2,Other Europe (14),Business,6.7,28.0,18.0,1817300,327114.0,Spring
+2012,3,Other Europe (14),Business,6.9,30.0,21.0,2096700,440307.0,Summer
+2012,4,Other Europe (14),Business,10.2,35.0,21.0,1438000,301980.0,Autumn
+2013,1,Other Europe (14),Business,7.7,51.0,21.0,1251700,262857.0,Winter
+2013,2,Other Europe (14),Business,9.2,35.0,26.0,1893000,492180.0,Spring
+2013,3,Other Europe (14),Business,8.4,29.0,20.0,2261000,452200.0,Summer
+2013,4,Other Europe (14),Business,10.3,44.0,22.0,1580100,347622.0,Autumn
+2014,1,Other Europe (14),Business,7.4,27.0,21.0,1342500,281925.0,Winter
+2014,2,Other Europe (14),Business,8.1,40.0,25.0,2126600,531650.0,Spring
+2014,3,Other Europe (14),Business,10.9,37.0,26.0,2440400,634504.0,Summer
+2014,4,Other Europe (14),Business,11.4,41.0,24.0,1694900,406776.0,Autumn
+2015,1,Other Europe (14),Business,8.3,39.0,27.0,1531300,413451.0,Winter
+2015,2,Other Europe (14),Business,7.2,43.0,24.0,2344900,562776.0,Spring
+2015,3,Other Europe (14),Business,10.3,40.0,22.0,2770900,609598.0,Summer
+2015,4,Other Europe (14),Business,7.6,48.0,24.0,1995900,479016.0,Autumn
+2016,1,Other Europe (14),Business,11.0,33.0,21.0,1784700,374787.0,Winter
+2016,2,Other Europe (14),Business,8.7,45.0,23.0,2598900,597747.0,Spring
+2016,3,Other Europe (14),Business,12.1,44.0,23.0,3061500,704145.0,Summer
+2016,4,Other Europe (14),Business,10.1,38.0,21.0,2139200,449232.0,Autumn
+2017,1,Other Europe (14),Business,7.0,34.0,23.0,1796100,413103.0,Winter
+2017,2,Other Europe (14),Business,6.6,55.0,30.0,2769400,830820.0,Spring
+2017,3,Other Europe (14),Business,9.0,46.0,23.0,3095600,711988.0,Summer
+2017,4,Other Europe (14),Business,10.4,48.0,25.0,2270900,567725.0,Autumn
+2018,1,Other Europe (14),Business,10.4,36.0,24.0,1920700,460968.0,Winter
+2018,2,Other Europe (14),Business,10.5,49.0,27.0,2951900,797013.0,Spring
+2018,3,Other Europe (14),Business,11.0,41.0,23.0,3330900,766107.0,Summer
+2018,4,Other Europe (14),Business,12.1,41.0,24.0,2412800,579072.0,Autumn
+2019,1,Other Europe (14),Business,8.7,45.0,24.0,2026700,486408.0,Winter
+2019,2,Other Europe (14),Business,8.4,43.0,27.0,3021800,815886.0,Spring
+2019,3,Other Europe (14),Business,8.7,51.0,28.0,3334400,933632.0000000001,Summer
+2019,4,Other Europe (14),Business,10.0,43.0,26.0,2424600,630396.0,Autumn
+2012,1,Other Europe (14),Holiday/leisure/recreation,5.4,26.0,16.0,1165100,186416.0,Winter
+2012,2,Other Europe (14),Holiday/leisure/recreation,6.6,68.0,19.0,1817300,345287.0,Spring
+2012,3,Other Europe (14),Holiday/leisure/recreation,7.9,86.0,18.0,2096700,377406.0,Summer
+2012,4,Other Europe (14),Holiday/leisure/recreation,5.2,40.0,18.0,1438000,258840.0,Autumn
+2013,1,Other Europe (14),Holiday/leisure/recreation,4.9,33.0,20.0,1251700,250340.0,Winter
+2013,2,Other Europe (14),Holiday/leisure/recreation,5.9,68.0,17.0,1893000,321810.0,Spring
+2013,3,Other Europe (14),Holiday/leisure/recreation,8.3,126.0,19.0,2261000,429590.0,Summer
+2013,4,Other Europe (14),Holiday/leisure/recreation,5.2,39.0,19.0,1580100,300219.0,Autumn
+2014,1,Other Europe (14),Holiday/leisure/recreation,4.7,30.0,18.0,1342500,241650.0,Winter
+2014,2,Other Europe (14),Holiday/leisure/recreation,6.0,59.0,16.0,2126600,340256.0,Spring
+2014,3,Other Europe (14),Holiday/leisure/recreation,8.3,126.0,18.0,2440400,439272.0,Summer
+2014,4,Other Europe (14),Holiday/leisure/recreation,5.2,45.0,17.0,1694900,288133.0,Autumn
+2015,1,Other Europe (14),Holiday/leisure/recreation,4.9,28.0,16.0,1531300,245008.0,Winter
+2015,2,Other Europe (14),Holiday/leisure/recreation,6.1,95.0,17.0,2344900,398633.0,Spring
+2015,3,Other Europe (14),Holiday/leisure/recreation,8.2,175.0,20.0,2770900,554180.0,Summer
+2015,4,Other Europe (14),Holiday/leisure/recreation,5.3,55.0,17.0,1995900,339303.0,Autumn
+2016,1,Other Europe (14),Holiday/leisure/recreation,4.8,45.0,18.0,1784700,321246.0,Winter
+2016,2,Other Europe (14),Holiday/leisure/recreation,6.3,101.0,17.0,2598900,441813.00000000006,Spring
+2016,3,Other Europe (14),Holiday/leisure/recreation,8.1,186.0,20.0,3061500,612300.0,Summer
+2016,4,Other Europe (14),Holiday/leisure/recreation,5.4,59.0,18.0,2139200,385056.0,Autumn
+2017,1,Other Europe (14),Holiday/leisure/recreation,4.7,39.0,17.0,1796100,305337.0,Winter
+2017,2,Other Europe (14),Holiday/leisure/recreation,5.6,130.0,20.0,2769400,553880.0,Spring
+2017,3,Other Europe (14),Holiday/leisure/recreation,7.9,188.0,20.0,3095600,619120.0,Summer
+2017,4,Other Europe (14),Holiday/leisure/recreation,4.7,77.0,21.0,2270900,476889.0,Autumn
+2018,1,Other Europe (14),Holiday/leisure/recreation,5.5,56.0,19.0,1920700,364933.0,Winter
+2018,2,Other Europe (14),Holiday/leisure/recreation,5.3,140.0,19.0,2951900,560861.0,Spring
+2018,3,Other Europe (14),Holiday/leisure/recreation,7.8,190.0,19.0,3330900,632871.0,Summer
+2018,4,Other Europe (14),Holiday/leisure/recreation,4.9,75.0,19.0,2412800,458432.0,Autumn
+2019,1,Other Europe (14),Holiday/leisure/recreation,4.7,54.0,20.0,2026700,405340.0,Winter
+2019,2,Other Europe (14),Holiday/leisure/recreation,6.1,162.0,20.0,3021800,604360.0,Spring
+2019,3,Other Europe (14),Holiday/leisure/recreation,7.6,207.0,20.0,3334400,666880.0,Summer
+2019,4,Other Europe (14),Holiday/leisure/recreation,4.2,85.0,22.0,2424600,533412.0,Autumn
+2012,1,Other Europe (14),Other reason for journey,13.6,18.0,47.0,1165100,547597.0,Winter
+2012,2,Other Europe (14),Other reason for journey,14.4,25.0,38.0,1817300,690574.0,Spring
+2012,3,Other Europe (14),Other reason for journey,17.1,41.0,45.0,2096700,943515.0,Summer
+2012,4,Other Europe (14),Other reason for journey,18.3,18.0,32.0,1438000,460160.0,Autumn
+2013,1,Other Europe (14),Other reason for journey,19.8,13.0,28.0,1251700,350476.00000000006,Winter
+2013,2,Other Europe (14),Other reason for journey,15.4,36.0,40.0,1893000,757200.0,Spring
+2013,3,Other Europe (14),Other reason for journey,17.2,43.0,39.0,2261000,881790.0,Summer
+2013,4,Other Europe (14),Other reason for journey,17.6,17.0,30.0,1580100,474030.0,Autumn
+2014,1,Other Europe (14),Other reason for journey,14.0,12.0,28.0,1342500,375900.00000000006,Winter
+2014,2,Other Europe (14),Other reason for journey,21.7,39.0,35.0,2126600,744310.0,Spring
+2014,3,Other Europe (14),Other reason for journey,13.7,33.0,31.0,2440400,756524.0,Summer
+2014,4,Other Europe (14),Other reason for journey,17.8,19.0,28.0,1694900,474572.00000000006,Autumn
+2015,1,Other Europe (14),Other reason for journey,20.4,24.0,28.0,1531300,428764.00000000006,Winter
+2015,2,Other Europe (14),Other reason for journey,19.6,21.0,27.0,2344900,633123.0,Spring
+2015,3,Other Europe (14),Other reason for journey,16.4,54.0,34.0,2770900,942106.0000000001,Summer
+2015,4,Other Europe (14),Other reason for journey,15.3,26.0,27.0,1995900,538893.0,Autumn
+2016,1,Other Europe (14),Other reason for journey,24.2,20.0,29.0,1784700,517562.99999999994,Winter
+2016,2,Other Europe (14),Other reason for journey,16.9,30.0,32.0,2598900,831648.0,Spring
+2016,3,Other Europe (14),Other reason for journey,12.5,60.0,34.0,3061500,1040910.0000000001,Summer
+2016,4,Other Europe (14),Other reason for journey,17.0,16.0,28.0,2139200,598976.0,Autumn
+2017,1,Other Europe (14),Other reason for journey,11.3,20.0,35.0,1796100,628635.0,Winter
+2017,2,Other Europe (14),Other reason for journey,15.9,30.0,30.0,2769400,830820.0,Spring
+2017,3,Other Europe (14),Other reason for journey,12.0,47.0,35.0,3095600,1083460.0,Summer
+2017,4,Other Europe (14),Other reason for journey,18.4,39.0,32.0,2270900,726688.0,Autumn
+2018,1,Other Europe (14),Other reason for journey,13.5,27.0,29.0,1920700,557003.0,Winter
+2018,2,Other Europe (14),Other reason for journey,13.5,35.0,36.0,2951900,1062684.0,Spring
+2018,3,Other Europe (14),Other reason for journey,7.4,34.0,31.0,3330900,1032579.0,Summer
+2018,4,Other Europe (14),Other reason for journey,15.0,30.0,25.0,2412800,603200.0,Autumn
+2019,1,Other Europe (14),Other reason for journey,6.2,17.0,30.0,2026700,608010.0,Winter
+2019,2,Other Europe (14),Other reason for journey,13.2,42.0,31.0,3021800,936758.0,Spring
+2019,3,Other Europe (14),Other reason for journey,8.4,24.0,26.0,3334400,866944.0,Summer
+2019,4,Other Europe (14),Other reason for journey,16.3,31.0,27.0,2424600,654642.0,Autumn
+2012,1,Other Europe (14),Visit to friends/relatives,10.5,24.0,18.0,1165100,209718.0,Winter
+2012,2,Other Europe (14),Visit to friends/relatives,8.2,25.0,15.0,1817300,272595.0,Spring
+2012,3,Other Europe (14),Visit to friends/relatives,11.1,20.0,11.0,2096700,230637.0,Summer
+2012,4,Other Europe (14),Visit to friends/relatives,6.8,32.0,20.0,1438000,287600.0,Autumn
+2013,1,Other Europe (14),Visit to friends/relatives,8.0,22.0,20.0,1251700,250340.0,Winter
+2013,2,Other Europe (14),Visit to friends/relatives,7.3,20.0,15.0,1893000,283950.0,Spring
+2013,3,Other Europe (14),Visit to friends/relatives,9.7,28.0,13.0,2261000,293930.0,Summer
+2013,4,Other Europe (14),Visit to friends/relatives,6.8,25.0,17.0,1580100,268617.0,Autumn
+2014,1,Other Europe (14),Visit to friends/relatives,9.2,35.0,19.0,1342500,255075.0,Winter
+2014,2,Other Europe (14),Visit to friends/relatives,8.7,39.0,19.0,2126600,404054.0,Spring
+2014,3,Other Europe (14),Visit to friends/relatives,9.7,31.0,13.0,2440400,317252.0,Summer
+2014,4,Other Europe (14),Visit to friends/relatives,8.0,27.0,16.0,1694900,271184.0,Autumn
+2015,1,Other Europe (14),Visit to friends/relatives,7.8,25.0,18.0,1531300,275634.0,Winter
+2015,2,Other Europe (14),Visit to friends/relatives,8.7,34.0,17.0,2344900,398633.0,Spring
+2015,3,Other Europe (14),Visit to friends/relatives,11.4,32.0,13.0,2770900,360217.0,Summer
+2015,4,Other Europe (14),Visit to friends/relatives,7.1,33.0,20.0,1995900,399180.0,Autumn
+2016,1,Other Europe (14),Visit to friends/relatives,9.8,39.0,20.0,1784700,356940.0,Winter
+2016,2,Other Europe (14),Visit to friends/relatives,7.4,32.0,19.0,2598900,493791.0,Spring
+2016,3,Other Europe (14),Visit to friends/relatives,10.3,34.0,13.0,3061500,397995.0,Summer
+2016,4,Other Europe (14),Visit to friends/relatives,6.8,38.0,21.0,2139200,449232.0,Autumn
+2017,1,Other Europe (14),Visit to friends/relatives,8.2,29.0,17.0,1796100,305337.0,Winter
+2017,2,Other Europe (14),Visit to friends/relatives,8.2,34.0,16.0,2769400,443104.0,Spring
+2017,3,Other Europe (14),Visit to friends/relatives,9.0,36.0,13.0,3095600,402428.0,Summer
+2017,4,Other Europe (14),Visit to friends/relatives,6.1,31.0,17.0,2270900,386053.0,Autumn
+2018,1,Other Europe (14),Visit to friends/relatives,7.4,33.0,19.0,1920700,364933.0,Winter
+2018,2,Other Europe (14),Visit to friends/relatives,7.3,38.0,19.0,2951900,560861.0,Spring
+2018,3,Other Europe (14),Visit to friends/relatives,8.3,35.0,14.0,3330900,466326.00000000006,Summer
+2018,4,Other Europe (14),Visit to friends/relatives,7.0,30.0,18.0,2412800,434304.0,Autumn
+2019,1,Other Europe (14),Visit to friends/relatives,7.2,32.0,21.0,2026700,425607.0,Winter
+2019,2,Other Europe (14),Visit to friends/relatives,8.8,39.0,17.0,3021800,513706.00000000006,Spring
+2019,3,Other Europe (14),Visit to friends/relatives,8.4,40.0,15.0,3334400,500160.0,Summer
+2019,4,Other Europe (14),Visit to friends/relatives,7.6,44.0,21.0,2424600,509166.0,Autumn
+2012,1,Other countries (24),All reasons for journey,16.3,48.0,6.0,1165100,69906.0,Winter
+2012,2,Other countries (24),All reasons for journey,12.8,78.0,6.0,1817300,109038.0,Spring
+2012,3,Other countries (24),All reasons for journey,12.5,98.0,6.0,2096700,125802.0,Summer
+2012,4,Other countries (24),All reasons for journey,11.1,65.0,6.0,1438000,86280.0,Autumn
+2013,1,Other countries (24),All reasons for journey,15.9,51.0,6.0,1251700,75102.0,Winter
+2013,2,Other countries (24),All reasons for journey,11.5,91.0,6.0,1893000,113580.0,Spring
+2013,3,Other countries (24),All reasons for journey,13.4,128.0,7.0,2261000,158270.00000000003,Summer
+2013,4,Other countries (24),All reasons for journey,12.5,89.0,7.0,1580100,110607.00000000001,Autumn
+2014,1,Other countries (24),All reasons for journey,15.8,73.0,6.0,1342500,80550.0,Winter
+2014,2,Other countries (24),All reasons for journey,14.3,116.0,6.0,2126600,127596.0,Spring
+2014,3,Other countries (24),All reasons for journey,13.2,145.0,7.0,2440400,170828.00000000003,Summer
+2014,4,Other countries (24),All reasons for journey,12.9,88.0,6.0,1694900,101694.0,Autumn
+2015,1,Other countries (24),All reasons for journey,14.5,70.0,6.0,1531300,91878.0,Winter
+2015,2,Other countries (24),All reasons for journey,12.9,124.0,6.0,2344900,140694.0,Spring
+2015,3,Other countries (24),All reasons for journey,14.3,171.0,7.0,2770900,193963.00000000003,Summer
+2015,4,Other countries (24),All reasons for journey,14.6,116.0,7.0,1995900,139713.0,Autumn
+2016,1,Other countries (24),All reasons for journey,16.7,91.0,6.0,1784700,107082.0,Winter
+2016,2,Other countries (24),All reasons for journey,14.2,132.0,6.0,2598900,155934.0,Spring
+2016,3,Other countries (24),All reasons for journey,14.0,188.0,6.0,3061500,183690.0,Summer
+2016,4,Other countries (24),All reasons for journey,13.6,113.0,6.0,2139200,128352.0,Autumn
+2017,1,Other countries (24),All reasons for journey,16.3,99.0,7.0,1796100,125727.00000000001,Winter
+2017,2,Other countries (24),All reasons for journey,11.7,144.0,6.0,2769400,166164.0,Spring
+2017,3,Other countries (24),All reasons for journey,13.9,212.0,7.0,3095600,216692.00000000003,Summer
+2017,4,Other countries (24),All reasons for journey,17.6,122.0,6.0,2270900,136254.0,Autumn
+2018,1,Other countries (24),All reasons for journey,17.5,110.0,6.0,1920700,115242.0,Winter
+2018,2,Other countries (24),All reasons for journey,11.4,154.0,6.0,2951900,177114.0,Spring
+2018,3,Other countries (24),All reasons for journey,14.0,206.0,7.0,3330900,233163.00000000003,Summer
+2018,4,Other countries (24),All reasons for journey,12.6,117.0,6.0,2412800,144768.0,Autumn
+2019,1,Other countries (24),All reasons for journey,15.4,99.0,6.0,2026700,121602.0,Winter
+2019,2,Other countries (24),All reasons for journey,11.3,161.0,7.0,3021800,211526.00000000003,Spring
+2019,3,Other countries (24),All reasons for journey,12.5,202.0,8.0,3334400,266752.0,Summer
+2019,4,Other countries (24),All reasons for journey,13.4,120.0,7.0,2424600,169722.00000000003,Autumn
+2012,1,Other countries (24),Business,6.8,7.0,4.0,1165100,46604.0,Winter
+2012,2,Other countries (24),Business,9.3,12.0,7.0,1817300,127211.00000000001,Spring
+2012,3,Other countries (24),Business,8.4,11.0,7.0,2096700,146769.0,Summer
+2012,4,Other countries (24),Business,7.8,12.0,6.0,1438000,86280.0,Autumn
+2013,1,Other countries (24),Business,9.3,8.0,4.0,1251700,50068.0,Winter
+2013,2,Other countries (24),Business,8.7,14.0,5.0,1893000,94650.0,Spring
+2013,3,Other countries (24),Business,10.0,15.0,6.0,2261000,135660.0,Summer
+2013,4,Other countries (24),Business,9.9,20.0,6.0,1580100,94806.0,Autumn
+2014,1,Other countries (24),Business,9.8,12.0,5.0,1342500,67125.0,Winter
+2014,2,Other countries (24),Business,8.7,19.0,6.0,2126600,127596.0,Spring
+2014,3,Other countries (24),Business,10.1,15.0,6.0,2440400,146424.0,Summer
+2014,4,Other countries (24),Business,9.3,15.0,6.0,1694900,101694.0,Autumn
+2015,1,Other countries (24),Business,12.3,13.0,4.0,1531300,61252.0,Winter
+2015,2,Other countries (24),Business,10.3,22.0,6.0,2344900,140694.0,Spring
+2015,3,Other countries (24),Business,12.1,21.0,6.0,2770900,166254.0,Summer
+2015,4,Other countries (24),Business,11.6,25.0,7.0,1995900,139713.0,Autumn
+2016,1,Other countries (24),Business,11.4,19.0,6.0,1784700,107082.0,Winter
+2016,2,Other countries (24),Business,11.7,21.0,5.0,2598900,129945.0,Spring
+2016,3,Other countries (24),Business,11.9,28.0,7.0,3061500,214305.00000000003,Summer
+2016,4,Other countries (24),Business,12.9,31.0,6.0,2139200,128352.0,Autumn
+2017,1,Other countries (24),Business,14.2,18.0,5.0,1796100,89805.0,Winter
+2017,2,Other countries (24),Business,12.3,24.0,7.0,2769400,193858.00000000003,Spring
+2017,3,Other countries (24),Business,13.5,23.0,6.0,3095600,185736.0,Summer
+2017,4,Other countries (24),Business,13.9,29.0,7.0,2270900,158963.00000000003,Autumn
+2018,1,Other countries (24),Business,15.9,21.0,6.0,1920700,115242.0,Winter
+2018,2,Other countries (24),Business,8.9,23.0,7.0,2951900,206633.00000000003,Spring
+2018,3,Other countries (24),Business,10.4,27.0,8.0,3330900,266472.0,Summer
+2018,4,Other countries (24),Business,10.3,20.0,6.0,2412800,144768.0,Autumn
+2019,1,Other countries (24),Business,9.9,16.0,5.0,2026700,101335.0,Winter
+2019,2,Other countries (24),Business,9.5,28.0,7.0,3021800,211526.00000000003,Spring
+2019,3,Other countries (24),Business,11.5,28.0,8.0,3334400,266752.0,Summer
+2019,4,Other countries (24),Business,11.5,23.0,8.0,2424600,193968.0,Autumn
+2012,1,Other countries (24),Holiday/leisure/recreation,8.7,16.0,6.0,1165100,69906.0,Winter
+2012,2,Other countries (24),Holiday/leisure/recreation,8.6,38.0,6.0,1817300,109038.0,Spring
+2012,3,Other countries (24),Holiday/leisure/recreation,8.9,56.0,6.0,2096700,125802.0,Summer
+2012,4,Other countries (24),Holiday/leisure/recreation,8.9,31.0,8.0,1438000,115040.0,Autumn
+2013,1,Other countries (24),Holiday/leisure/recreation,9.1,19.0,6.0,1251700,75102.0,Winter
+2013,2,Other countries (24),Holiday/leisure/recreation,7.7,44.0,6.0,1893000,113580.0,Spring
+2013,3,Other countries (24),Holiday/leisure/recreation,8.6,67.0,7.0,2261000,158270.00000000003,Summer
+2013,4,Other countries (24),Holiday/leisure/recreation,7.3,29.0,7.0,1580100,110607.00000000001,Autumn
+2014,1,Other countries (24),Holiday/leisure/recreation,12.4,20.0,6.0,1342500,80550.0,Winter
+2014,2,Other countries (24),Holiday/leisure/recreation,8.1,42.0,6.0,2126600,127596.0,Spring
+2014,3,Other countries (24),Holiday/leisure/recreation,9.2,68.0,6.0,2440400,146424.0,Summer
+2014,4,Other countries (24),Holiday/leisure/recreation,8.7,32.0,6.0,1694900,101694.0,Autumn
+2015,1,Other countries (24),Holiday/leisure/recreation,8.6,21.0,6.0,1531300,91878.0,Winter
+2015,2,Other countries (24),Holiday/leisure/recreation,8.4,51.0,5.0,2344900,117245.0,Spring
+2015,3,Other countries (24),Holiday/leisure/recreation,9.8,75.0,6.0,2770900,166254.0,Summer
+2015,4,Other countries (24),Holiday/leisure/recreation,8.3,37.0,6.0,1995900,119754.0,Autumn
+2016,1,Other countries (24),Holiday/leisure/recreation,11.4,21.0,4.0,1784700,71388.0,Winter
+2016,2,Other countries (24),Holiday/leisure/recreation,9.4,53.0,5.0,2598900,129945.0,Spring
+2016,3,Other countries (24),Holiday/leisure/recreation,9.9,79.0,6.0,3061500,183690.0,Summer
+2016,4,Other countries (24),Holiday/leisure/recreation,8.7,41.0,6.0,2139200,128352.0,Autumn
+2017,1,Other countries (24),Holiday/leisure/recreation,9.2,31.0,6.0,1796100,107766.0,Winter
+2017,2,Other countries (24),Holiday/leisure/recreation,8.1,64.0,6.0,2769400,166164.0,Spring
+2017,3,Other countries (24),Holiday/leisure/recreation,10.0,86.0,6.0,3095600,185736.0,Summer
+2017,4,Other countries (24),Holiday/leisure/recreation,9.8,38.0,6.0,2270900,136254.0,Autumn
+2018,1,Other countries (24),Holiday/leisure/recreation,9.2,29.0,5.0,1920700,96035.0,Winter
+2018,2,Other countries (24),Holiday/leisure/recreation,7.7,73.0,6.0,2951900,177114.0,Spring
+2018,3,Other countries (24),Holiday/leisure/recreation,10.0,98.0,6.0,3330900,199854.0,Summer
+2018,4,Other countries (24),Holiday/leisure/recreation,8.2,47.0,6.0,2412800,144768.0,Autumn
+2019,1,Other countries (24),Holiday/leisure/recreation,10.4,28.0,5.0,2026700,101335.0,Winter
+2019,2,Other countries (24),Holiday/leisure/recreation,7.4,77.0,6.0,3021800,181308.0,Spring
+2019,3,Other countries (24),Holiday/leisure/recreation,9.8,103.0,7.0,3334400,233408.00000000003,Summer
+2019,4,Other countries (24),Holiday/leisure/recreation,8.1,43.0,6.0,2424600,145476.0,Autumn
+2012,1,Other countries (24),Other reason for journey,44.3,5.0,6.0,1165100,69906.0,Winter
+2012,2,Other countries (24),Other reason for journey,38.0,7.0,5.0,1817300,90865.0,Spring
+2012,3,Other countries (24),Other reason for journey,36.4,6.0,3.0,2096700,62901.0,Summer
+2012,4,Other countries (24),Other reason for journey,27.0,5.0,4.0,1438000,57520.0,Autumn
+2013,1,Other countries (24),Other reason for journey,35.5,5.0,10.0,1251700,125170.0,Winter
+2013,2,Other countries (24),Other reason for journey,28.5,9.0,4.0,1893000,75720.0,Spring
+2013,3,Other countries (24),Other reason for journey,29.7,10.0,7.0,2261000,158270.00000000003,Summer
+2013,4,Other countries (24),Other reason for journey,32.3,11.0,11.0,1580100,173811.0,Autumn
+2014,1,Other countries (24),Other reason for journey,26.8,11.0,10.0,1342500,134250.0,Winter
+2014,2,Other countries (24),Other reason for journey,47.8,22.0,9.0,2126600,191394.0,Spring
+2014,3,Other countries (24),Other reason for journey,18.4,11.0,8.0,2440400,195232.0,Summer
+2014,4,Other countries (24),Other reason for journey,26.1,10.0,10.0,1694900,169490.0,Autumn
+2015,1,Other countries (24),Other reason for journey,23.9,8.0,9.0,1531300,137817.0,Winter
+2015,2,Other countries (24),Other reason for journey,30.0,14.0,11.0,2344900,257939.0,Spring
+2015,3,Other countries (24),Other reason for journey,21.0,18.0,7.0,2770900,193963.00000000003,Summer
+2015,4,Other countries (24),Other reason for journey,39.0,16.0,11.0,1995900,219549.0,Autumn
+2016,1,Other countries (24),Other reason for journey,33.8,13.0,11.0,1784700,196317.0,Winter
+2016,2,Other countries (24),Other reason for journey,32.9,21.0,7.0,2598900,181923.00000000003,Spring
+2016,3,Other countries (24),Other reason for journey,24.1,29.0,7.0,3061500,214305.00000000003,Summer
+2016,4,Other countries (24),Other reason for journey,32.8,13.0,11.0,2139200,235312.0,Autumn
+2017,1,Other countries (24),Other reason for journey,33.1,14.0,12.0,1796100,215532.0,Winter
+2017,2,Other countries (24),Other reason for journey,19.8,15.0,6.0,2769400,166164.0,Spring
+2017,3,Other countries (24),Other reason for journey,20.9,41.0,9.0,3095600,278604.0,Summer
+2017,4,Other countries (24),Other reason for journey,49.4,17.0,9.0,2270900,204381.0,Autumn
+2018,1,Other countries (24),Other reason for journey,36.5,27.0,14.0,1920700,268898.0,Winter
+2018,2,Other countries (24),Other reason for journey,29.5,18.0,6.0,2951900,177114.0,Spring
+2018,3,Other countries (24),Other reason for journey,22.2,17.0,9.0,3330900,299781.0,Summer
+2018,4,Other countries (24),Other reason for journey,24.5,15.0,10.0,2412800,241280.0,Autumn
+2019,1,Other countries (24),Other reason for journey,29.4,13.0,8.0,2026700,162136.0,Winter
+2019,2,Other countries (24),Other reason for journey,26.6,17.0,6.0,3021800,181308.0,Spring
+2019,3,Other countries (24),Other reason for journey,16.6,11.0,9.0,3334400,300096.0,Summer
+2019,4,Other countries (24),Other reason for journey,33.2,15.0,12.0,2424600,290952.0,Autumn
+2012,1,Other countries (24),Visit to friends/relatives,19.9,19.0,6.0,1165100,69906.0,Winter
+2012,2,Other countries (24),Visit to friends/relatives,15.5,22.0,6.0,1817300,109038.0,Spring
+2012,3,Other countries (24),Visit to friends/relatives,17.1,24.0,6.0,2096700,125802.0,Summer
+2012,4,Other countries (24),Visit to friends/relatives,13.3,16.0,5.0,1438000,71900.0,Autumn
+2013,1,Other countries (24),Visit to friends/relatives,18.3,18.0,6.0,1251700,75102.0,Winter
+2013,2,Other countries (24),Visit to friends/relatives,15.1,24.0,6.0,1893000,113580.0,Spring
+2013,3,Other countries (24),Visit to friends/relatives,18.0,37.0,7.0,2261000,158270.00000000003,Summer
+2013,4,Other countries (24),Visit to friends/relatives,14.8,29.0,6.0,1580100,94806.0,Autumn
+2014,1,Other countries (24),Visit to friends/relatives,17.5,31.0,7.0,1342500,93975.00000000001,Winter
+2014,2,Other countries (24),Visit to friends/relatives,14.4,33.0,6.0,2126600,127596.0,Spring
+2014,3,Other countries (24),Visit to friends/relatives,18.5,51.0,8.0,2440400,195232.0,Summer
+2014,4,Other countries (24),Visit to friends/relatives,15.1,30.0,6.0,1694900,101694.0,Autumn
+2015,1,Other countries (24),Visit to friends/relatives,17.8,28.0,7.0,1531300,107191.00000000001,Winter
+2015,2,Other countries (24),Visit to friends/relatives,13.0,37.0,7.0,2344900,164143.00000000003,Spring
+2015,3,Other countries (24),Visit to friends/relatives,20.1,57.0,8.0,2770900,221672.0,Summer
+2015,4,Other countries (24),Visit to friends/relatives,14.7,38.0,7.0,1995900,139713.0,Autumn
+2016,1,Other countries (24),Visit to friends/relatives,17.4,39.0,7.0,1784700,124929.00000000001,Winter
+2016,2,Other countries (24),Visit to friends/relatives,14.8,37.0,7.0,2598900,181923.00000000003,Spring
+2016,3,Other countries (24),Visit to friends/relatives,17.6,51.0,7.0,3061500,214305.00000000003,Summer
+2016,4,Other countries (24),Visit to friends/relatives,13.7,28.0,6.0,2139200,128352.0,Autumn
+2017,1,Other countries (24),Visit to friends/relatives,17.4,37.0,8.0,1796100,143688.0,Winter
+2017,2,Other countries (24),Visit to friends/relatives,14.5,41.0,8.0,2769400,221552.0,Spring
+2017,3,Other countries (24),Visit to friends/relatives,17.3,62.0,9.0,3095600,278604.0,Summer
+2017,4,Other countries (24),Visit to friends/relatives,17.0,38.0,6.0,2270900,136254.0,Autumn
+2018,1,Other countries (24),Visit to friends/relatives,17.6,33.0,7.0,1920700,134449.0,Winter
+2018,2,Other countries (24),Visit to friends/relatives,14.2,40.0,6.0,2951900,177114.0,Spring
+2018,3,Other countries (24),Visit to friends/relatives,17.9,64.0,10.0,3330900,333090.0,Summer
+2018,4,Other countries (24),Visit to friends/relatives,15.4,35.0,7.0,2412800,168896.00000000003,Autumn
+2019,1,Other countries (24),Visit to friends/relatives,17.5,43.0,9.0,2026700,182403.0,Winter
+2019,2,Other countries (24),Visit to friends/relatives,14.0,39.0,7.0,3021800,211526.00000000003,Spring
+2019,3,Other countries (24),Visit to friends/relatives,16.6,61.0,9.0,3334400,300096.0,Summer
+2019,4,Other countries (24),Visit to friends/relatives,14.2,39.0,7.0,2424600,169722.00000000003,Autumn
+2012,1,United States and Canada,All reasons for journey,8.0,97.0,12.0,1165100,139812.0,Winter
+2012,2,United States and Canada,All reasons for journey,8.6,210.0,16.0,1817300,290768.0,Spring
+2012,3,United States and Canada,All reasons for journey,8.4,287.0,17.0,2096700,356439.0,Summer
+2012,4,United States and Canada,All reasons for journey,9.1,148.0,14.0,1438000,201320.00000000003,Autumn
+2013,1,United States and Canada,All reasons for journey,7.3,101.0,13.0,1251700,162721.0,Winter
+2013,2,United States and Canada,All reasons for journey,7.9,239.0,17.0,1893000,321810.0,Spring
+2013,3,United States and Canada,All reasons for journey,8.3,329.0,18.0,2261000,406980.0,Summer
+2013,4,United States and Canada,All reasons for journey,8.8,153.0,13.0,1580100,205413.0,Autumn
+2014,1,United States and Canada,All reasons for journey,7.3,107.0,13.0,1342500,174525.0,Winter
+2014,2,United States and Canada,All reasons for journey,7.0,267.0,17.0,2126600,361522.0,Spring
+2014,3,United States and Canada,All reasons for journey,7.9,389.0,19.0,2440400,463676.0,Summer
+2014,4,United States and Canada,All reasons for journey,7.3,172.0,14.0,1694900,237286.00000000003,Autumn
+2015,1,United States and Canada,All reasons for journey,7.0,125.0,12.0,1531300,183756.0,Winter
+2015,2,United States and Canada,All reasons for journey,7.7,375.0,18.0,2344900,422082.0,Spring
+2015,3,United States and Canada,All reasons for journey,7.8,470.0,19.0,2770900,526471.0,Summer
+2015,4,United States and Canada,All reasons for journey,8.0,226.0,14.0,1995900,279426.0,Autumn
+2016,1,United States and Canada,All reasons for journey,6.9,144.0,12.0,1784700,214164.0,Winter
+2016,2,United States and Canada,All reasons for journey,6.7,394.0,18.0,2598900,467802.0,Spring
+2016,3,United States and Canada,All reasons for journey,7.4,494.0,19.0,3061500,581685.0,Summer
+2016,4,United States and Canada,All reasons for journey,7.7,303.0,17.0,2139200,363664.0,Autumn
+2017,1,United States and Canada,All reasons for journey,6.0,152.0,14.0,1796100,251454.00000000003,Winter
+2017,2,United States and Canada,All reasons for journey,7.0,476.0,21.0,2769400,581574.0,Spring
+2017,3,United States and Canada,All reasons for journey,7.3,580.0,22.0,3095600,681032.0,Summer
+2017,4,United States and Canada,All reasons for journey,6.8,315.0,17.0,2270900,386053.0,Autumn
+2018,1,United States and Canada,All reasons for journey,6.2,194.0,15.0,1920700,288105.0,Winter
+2018,2,United States and Canada,All reasons for journey,6.4,493.0,21.0,2951900,619899.0,Spring
+2018,3,United States and Canada,All reasons for journey,7.1,681.0,24.0,3330900,799416.0,Summer
+2018,4,United States and Canada,All reasons for journey,6.6,367.0,20.0,2412800,482560.0,Autumn
+2019,1,United States and Canada,All reasons for journey,5.9,200.0,16.0,2026700,324272.0,Winter
+2019,2,United States and Canada,All reasons for journey,6.4,546.0,22.0,3021800,664796.0,Spring
+2019,3,United States and Canada,All reasons for journey,6.4,644.0,23.0,3334400,766912.0,Summer
+2019,4,United States and Canada,All reasons for journey,6.9,301.0,17.0,2424600,412182.00000000006,Autumn
+2012,1,United States and Canada,Business,6.9,16.0,7.0,1165100,81557.00000000001,Winter
+2012,2,United States and Canada,Business,5.8,25.0,10.0,1817300,181730.0,Spring
+2012,3,United States and Canada,Business,6.5,21.0,10.0,2096700,209670.0,Summer
+2012,4,United States and Canada,Business,10.6,29.0,12.0,1438000,172560.0,Autumn
+2013,1,United States and Canada,Business,4.9,16.0,9.0,1251700,112653.0,Winter
+2013,2,United States and Canada,Business,8.6,20.0,8.0,1893000,151440.0,Spring
+2013,3,United States and Canada,Business,7.8,20.0,9.0,2261000,203490.0,Summer
+2013,4,United States and Canada,Business,6.4,24.0,9.0,1580100,142209.0,Autumn
+2014,1,United States and Canada,Business,6.3,18.0,9.0,1342500,120825.0,Winter
+2014,2,United States and Canada,Business,6.5,29.0,9.0,2126600,191394.0,Spring
+2014,3,United States and Canada,Business,7.0,24.0,11.0,2440400,268444.0,Summer
+2014,4,United States and Canada,Business,6.1,21.0,7.0,1694900,118643.00000000001,Autumn
+2015,1,United States and Canada,Business,6.2,26.0,8.0,1531300,122504.0,Winter
+2015,2,United States and Canada,Business,7.0,32.0,11.0,2344900,257939.0,Spring
+2015,3,United States and Canada,Business,7.1,24.0,8.0,2770900,221672.0,Summer
+2015,4,United States and Canada,Business,6.4,31.0,9.0,1995900,179631.0,Autumn
+2016,1,United States and Canada,Business,5.5,29.0,10.0,1784700,178470.0,Winter
+2016,2,United States and Canada,Business,4.9,32.0,10.0,2598900,259890.0,Spring
+2016,3,United States and Canada,Business,7.1,33.0,11.0,3061500,336765.0,Summer
+2016,4,United States and Canada,Business,5.3,36.0,11.0,2139200,235312.0,Autumn
+2017,1,United States and Canada,Business,5.9,31.0,11.0,1796100,197571.0,Winter
+2017,2,United States and Canada,Business,6.7,37.0,9.0,2769400,249246.0,Spring
+2017,3,United States and Canada,Business,7.8,42.0,11.0,3095600,340516.0,Summer
+2017,4,United States and Canada,Business,7.4,41.0,11.0,2270900,249799.0,Autumn
+2018,1,United States and Canada,Business,4.7,32.0,10.0,1920700,192070.0,Winter
+2018,2,United States and Canada,Business,6.3,37.0,11.0,2951900,324709.0,Spring
+2018,3,United States and Canada,Business,7.7,47.0,13.0,3330900,433017.0,Summer
+2018,4,United States and Canada,Business,5.9,32.0,11.0,2412800,265408.0,Autumn
+2019,1,United States and Canada,Business,5.2,24.0,8.0,2026700,162136.0,Winter
+2019,2,United States and Canada,Business,5.9,25.0,9.0,3021800,271962.0,Spring
+2019,3,United States and Canada,Business,6.4,32.0,9.0,3334400,300096.0,Summer
+2019,4,United States and Canada,Business,8.3,31.0,9.0,2424600,218214.0,Autumn
+2012,1,United States and Canada,Holiday/leisure/recreation,6.8,53.0,19.0,1165100,221369.0,Winter
+2012,2,United States and Canada,Holiday/leisure/recreation,7.9,145.0,21.0,1817300,381633.0,Spring
+2012,3,United States and Canada,Holiday/leisure/recreation,7.9,229.0,25.0,2096700,524175.0,Summer
+2012,4,United States and Canada,Holiday/leisure/recreation,7.5,92.0,22.0,1438000,316360.0,Autumn
+2013,1,United States and Canada,Holiday/leisure/recreation,6.4,61.0,19.0,1251700,237823.0,Winter
+2013,2,United States and Canada,Holiday/leisure/recreation,7.5,174.0,24.0,1893000,454320.0,Spring
+2013,3,United States and Canada,Holiday/leisure/recreation,8.0,255.0,25.0,2261000,565250.0,Summer
+2013,4,United States and Canada,Holiday/leisure/recreation,7.7,92.0,21.0,1580100,331821.0,Autumn
+2014,1,United States and Canada,Holiday/leisure/recreation,6.7,53.0,18.0,1342500,241650.0,Winter
+2014,2,United States and Canada,Holiday/leisure/recreation,7.0,186.0,25.0,2126600,531650.0,Spring
+2014,3,United States and Canada,Holiday/leisure/recreation,8.1,315.0,26.0,2440400,634504.0,Summer
+2014,4,United States and Canada,Holiday/leisure/recreation,6.8,111.0,23.0,1694900,389827.0,Autumn
+2015,1,United States and Canada,Holiday/leisure/recreation,6.8,69.0,18.0,1531300,275634.0,Winter
+2015,2,United States and Canada,Holiday/leisure/recreation,7.1,269.0,25.0,2344900,586225.0,Spring
+2015,3,United States and Canada,Holiday/leisure/recreation,8.2,384.0,25.0,2770900,692725.0,Summer
+2015,4,United States and Canada,Holiday/leisure/recreation,7.5,148.0,21.0,1995900,419139.0,Autumn
+2016,1,United States and Canada,Holiday/leisure/recreation,6.5,77.0,16.0,1784700,285552.0,Winter
+2016,2,United States and Canada,Holiday/leisure/recreation,6.9,292.0,25.0,2598900,649725.0,Spring
+2016,3,United States and Canada,Holiday/leisure/recreation,7.9,388.0,25.0,3061500,765375.0,Summer
+2016,4,United States and Canada,Holiday/leisure/recreation,7.3,206.0,26.0,2139200,556192.0,Autumn
+2017,1,United States and Canada,Holiday/leisure/recreation,6.6,84.0,19.0,1796100,341259.0,Winter
+2017,2,United States and Canada,Holiday/leisure/recreation,7.1,362.0,28.0,2769400,775432.0000000001,Spring
+2017,3,United States and Canada,Holiday/leisure/recreation,7.9,460.0,29.0,3095600,897723.9999999999,Summer
+2017,4,United States and Canada,Holiday/leisure/recreation,7.0,217.0,25.0,2270900,567725.0,Autumn
+2018,1,United States and Canada,Holiday/leisure/recreation,6.6,114.0,21.0,1920700,403347.0,Winter
+2018,2,United States and Canada,Holiday/leisure/recreation,6.7,381.0,28.0,2951900,826532.0000000001,Spring
+2018,3,United States and Canada,Holiday/leisure/recreation,7.8,554.0,31.0,3330900,1032579.0,Summer
+2018,4,United States and Canada,Holiday/leisure/recreation,7.2,284.0,29.0,2412800,699712.0,Autumn
+2019,1,United States and Canada,Holiday/leisure/recreation,6.3,130.0,22.0,2026700,445874.0,Winter
+2019,2,United States and Canada,Holiday/leisure/recreation,6.9,446.0,30.0,3021800,906540.0,Spring
+2019,3,United States and Canada,Holiday/leisure/recreation,7.1,529.0,29.0,3334400,966975.9999999999,Summer
+2019,4,United States and Canada,Holiday/leisure/recreation,5.8,185.0,23.0,2424600,557658.0,Autumn
+2012,1,United States and Canada,Other reason for journey,8.7,8.0,12.0,1165100,139812.0,Winter
+2012,2,United States and Canada,Other reason for journey,11.0,17.0,18.0,1817300,327114.0,Spring
+2012,3,United States and Canada,Other reason for journey,10.3,15.0,9.0,2096700,188703.0,Summer
+2012,4,United States and Canada,Other reason for journey,13.3,7.0,7.0,1438000,100660.00000000001,Autumn
+2013,1,United States and Canada,Other reason for journey,9.7,9.0,22.0,1251700,275374.0,Winter
+2013,2,United States and Canada,Other reason for journey,8.0,24.0,15.0,1893000,283950.0,Spring
+2013,3,United States and Canada,Other reason for journey,4.9,10.0,10.0,2261000,226100.0,Summer
+2013,4,United States and Canada,Other reason for journey,15.3,15.0,16.0,1580100,252816.0,Autumn
+2014,1,United States and Canada,Other reason for journey,6.3,10.0,18.0,1342500,241650.0,Winter
+2014,2,United States and Canada,Other reason for journey,6.3,22.0,16.0,2126600,340256.0,Spring
+2014,3,United States and Canada,Other reason for journey,3.0,9.0,11.0,2440400,268444.0,Summer
+2014,4,United States and Canada,Other reason for journey,8.2,15.0,15.0,1694900,254235.0,Autumn
+2015,1,United States and Canada,Other reason for journey,5.7,10.0,12.0,1531300,183756.0,Winter
+2015,2,United States and Canada,Other reason for journey,9.8,38.0,21.0,2344900,492429.0,Spring
+2015,3,United States and Canada,Other reason for journey,3.0,12.0,11.0,2770900,304799.0,Summer
+2015,4,United States and Canada,Other reason for journey,9.0,18.0,16.0,1995900,319344.0,Autumn
+2016,1,United States and Canada,Other reason for journey,6.4,12.0,14.0,1784700,249858.00000000003,Winter
+2016,2,United States and Canada,Other reason for journey,5.8,41.0,19.0,2598900,493791.0,Spring
+2016,3,United States and Canada,Other reason for journey,3.0,19.0,14.0,3061500,428610.00000000006,Summer
+2016,4,United States and Canada,Other reason for journey,9.3,27.0,20.0,2139200,427840.0,Autumn
+2017,1,United States and Canada,Other reason for journey,2.3,7.0,14.0,1796100,251454.00000000003,Winter
+2017,2,United States and Canada,Other reason for journey,5.9,37.0,25.0,2769400,692350.0,Spring
+2017,3,United States and Canada,Other reason for journey,2.3,19.0,14.0,3095600,433384.00000000006,Summer
+2017,4,United States and Canada,Other reason for journey,5.7,23.0,17.0,2270900,386053.0,Autumn
+2018,1,United States and Canada,Other reason for journey,3.9,14.0,17.0,1920700,326519.0,Winter
+2018,2,United States and Canada,Other reason for journey,4.9,28.0,24.0,2951900,708456.0,Spring
+2018,3,United States and Canada,Other reason for journey,2.1,20.0,22.0,3330900,732798.0,Summer
+2018,4,United States and Canada,Other reason for journey,4.2,19.0,19.0,2412800,458432.0,Autumn
+2019,1,United States and Canada,Other reason for journey,2.7,13.0,18.0,2026700,364806.0,Winter
+2019,2,United States and Canada,Other reason for journey,4.2,33.0,23.0,3021800,695014.0,Spring
+2019,3,United States and Canada,Other reason for journey,1.8,14.0,21.0,3334400,700224.0,Summer
+2019,4,United States and Canada,Other reason for journey,9.0,49.0,23.0,2424600,557658.0,Autumn
+2012,1,United States and Canada,Visit to friends/relatives,10.6,19.0,9.0,1165100,104859.0,Winter
+2012,2,United States and Canada,Visit to friends/relatives,10.3,22.0,9.0,1817300,163557.0,Spring
+2012,3,United States and Canada,Visit to friends/relatives,11.2,22.0,8.0,2096700,167736.0,Summer
+2012,4,United States and Canada,Visit to friends/relatives,10.6,21.0,8.0,1438000,115040.0,Autumn
+2013,1,United States and Canada,Visit to friends/relatives,9.6,16.0,8.0,1251700,100136.0,Winter
+2013,2,United States and Canada,Visit to friends/relatives,9.7,22.0,9.0,1893000,170370.0,Spring
+2013,3,United States and Canada,Visit to friends/relatives,12.0,44.0,11.0,2261000,248710.0,Summer
+2013,4,United States and Canada,Visit to friends/relatives,8.6,22.0,7.0,1580100,110607.00000000001,Autumn
+2014,1,United States and Canada,Visit to friends/relatives,9.9,27.0,9.0,1342500,120825.0,Winter
+2014,2,United States and Canada,Visit to friends/relatives,8.0,30.0,8.0,2126600,170128.0,Spring
+2014,3,United States and Canada,Visit to friends/relatives,11.2,42.0,10.0,2440400,244040.0,Summer
+2014,4,United States and Canada,Visit to friends/relatives,8.5,25.0,8.0,1694900,135592.0,Autumn
+2015,1,United States and Canada,Visit to friends/relatives,9.2,21.0,7.0,1531300,107191.00000000001,Winter
+2015,2,United States and Canada,Visit to friends/relatives,8.7,35.0,9.0,2344900,211041.0,Spring
+2015,3,United States and Canada,Visit to friends/relatives,10.8,50.0,11.0,2770900,304799.0,Summer
+2015,4,United States and Canada,Visit to friends/relatives,9.7,30.0,8.0,1995900,159672.0,Autumn
+2016,1,United States and Canada,Visit to friends/relatives,9.4,27.0,8.0,1784700,142776.0,Winter
+2016,2,United States and Canada,Visit to friends/relatives,7.9,29.0,8.0,2598900,207912.0,Spring
+2016,3,United States and Canada,Visit to friends/relatives,10.8,54.0,11.0,3061500,336765.0,Summer
+2016,4,United States and Canada,Visit to friends/relatives,8.8,34.0,9.0,2139200,192528.0,Autumn
+2017,1,United States and Canada,Visit to friends/relatives,9.3,30.0,9.0,1796100,161649.0,Winter
+2017,2,United States and Canada,Visit to friends/relatives,8.0,40.0,11.0,2769400,304634.0,Spring
+2017,3,United States and Canada,Visit to friends/relatives,10.1,59.0,13.0,3095600,402428.0,Summer
+2017,4,United States and Canada,Visit to friends/relatives,7.3,35.0,9.0,2270900,204381.0,Autumn
+2018,1,United States and Canada,Visit to friends/relatives,8.6,35.0,10.0,1920700,192070.0,Winter
+2018,2,United States and Canada,Visit to friends/relatives,7.5,46.0,10.0,2951900,295190.0,Spring
+2018,3,United States and Canada,Visit to friends/relatives,9.6,60.0,13.0,3330900,433017.0,Summer
+2018,4,United States and Canada,Visit to friends/relatives,7.7,31.0,9.0,2412800,217152.0,Autumn
+2019,1,United States and Canada,Visit to friends/relatives,9.4,33.0,11.0,2026700,222937.0,Winter
+2019,2,United States and Canada,Visit to friends/relatives,7.8,42.0,10.0,3021800,302180.0,Spring
+2019,3,United States and Canada,Visit to friends/relatives,10.2,68.0,13.0,3334400,433472.0,Summer
+2019,4,United States and Canada,Visit to friends/relatives,6.8,37.0,9.0,2424600,218214.0,Autumn
